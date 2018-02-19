@@ -1,0 +1,26 @@
+{
+  "name": "projekt",
+  "version": "1.0.0",
+  "description": "testy przewodnickie",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "testy"
+  ],
+  "author": "js",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "jquery-ui-dist": "^1.12.1",
+    "lockr": "^0.8.4",
+    "popper.js": "^1.12.9"
+  }
+  ,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JacekSzczepaniak/skpb.git"
+  }
+}

@@ -1,0 +1,1492 @@
+[ 
+{ 
+"id":1,
+"id_szlaku":"gsb-bs",
+"odlegosc":0.00,
+"czas":null,
+"wysokosc":420.00,
+"atrakcje":"kosciol.svg  muzeum.svg  kaplica.svg  zabytek.svg  hotel.svg  bus.svg",
+"miejsce":"Krościenko nad Dunajcem",
+"wezly_szlakow":"Szlak_start.svg Szlak_zolty.svg Sromowce Niżne 2:40 h przez Przełęcz Szopka 1:35 h i Schronisko PTTK „Trzy Korony” 2:25 h <br> Szlak_skrzyz.svg Szlak_zielony.svg Czertezik 1:15 h ← Krościenko nad Dunajcem → Sokolica 1:10 h"
+},
+{
+"id":2,
+"id_szlaku":"gsb-bs",
+"odlegosc":5.50,
+"czas":"2:25",
+"wysokosc":983.00,
+"atrakcje":"szczyt.svg  widok.svg  rezerwat_krajobrazowy.svgPopradzki P.K.",
+"miejsce":"Dzwonkówka",
+"wezly_szlakow":"Szlak_skrzyz.svg Szlak_zolty.svg Modyń 7 h przez Łącko 3:40 h ←  szczyt.svg → Szafranówka 2:40 h przez Bacówka PTTK pod Bereśnikiem 0:50 h i Szczawnicę 1:45 h oraz Palenicę 2:30 h"
+},
+{
+"id":3,
+"id_szlaku":"gsb-bs",
+"odlegosc":6.40,
+"czas":"2:40",
+"wysokosc":832.00,
+"atrakcje":"przelecz.svg  widok.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Przełęcz Przysłop",
+"wezly_szlakow":"Szlak_start.svg Szlak_niebieski.svg Obidza Zarębki 1:45 h <br > Szlak_start.svg Szlak_zielony.svg Jazowsko 2:30 h przez Obidzę Zarębki 1:40 h – ew. (szlakiem gminnym Szlak_zielony.svg) Gołkowice (kościół) 4:20 h"
+},
+{
+"id":4,
+"id_szlaku":"gsb-bs",
+"odlegosc":12.30,
+"czas":"4:35",
+"wysokosc":1175.00,
+"atrakcje":"schronisko.svg  maszt.svg  szczyt.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Schronisko PTTK na Przehybie",
+"wezly_szlakow":"Szlak_dolacz.svg Szlak_niebieski.svg Szczawnica 2:25 h ←  schronisko.svg → Wielka Przehyba 0:20 h<br> Szlak_skrzyz.svg Szlak_zielony.svg Szczawnica 2:10 h ←  schronisko.svg → Jazowsko 2:50 h"
+},
+{
+"id":5,
+"id_szlaku":"gsb-bs",
+"odlegosc":13.70,
+"czas":"4:55",
+"wysokosc":1155.00,
+"atrakcje":"rezerwat_krajobrazowy.svg",
+"miejsce":"Wielka Przehyba (zach. zbocze)",
+"wezly_szlakow":"Szlak_niebieski.svg skręca do Rytra PKP i PKS 2:45 h<br> Szlak_start.svg Szlak_zolty.svg Stary Sącz PKP 3:55 h"
+},
+{
+"id":6,
+"id_szlaku":"gsb-bs",
+"odlegosc":16.00,
+"czas":"5:30",
+"wysokosc":1207.00,
+"atrakcje":"szczyt.svg  widok.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Mała Radziejowa",
+"wezly_szlakow":null
+},
+{
+"id":7,
+"id_szlaku":"gsb-bs",
+"odlegosc":16.90,
+"czas":"6:05",
+"wysokosc":1262.00,
+"atrakcje":"szczyt.svg  pomnik.svg  widok.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Radziejowa",
+"wezly_szlakow":null
+},
+{
+"id":8,
+"id_szlaku":"gsb-bs",
+"odlegosc":17.80,
+"czas":"6:20",
+"wysokosc":1106.00,
+"atrakcje":"przelecz.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Przełęcz Żłobki",
+"wezly_szlakow":"Szlak_start.svg Szlak_zolty.svg Roztoka Wielka (pomnik) 2:25 h"
+},
+{
+"id":9,
+"id_szlaku":"gsb-bs",
+"odlegosc":18.60,
+"czas":"6:35",
+"wysokosc":1182.00,
+"atrakcje":"szczyt.svg  widok.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Wielki Rogacz",
+"wezly_szlakow":"Szlak_start.svg Szlak_niebieski.svg Tarnów przez Przełęcz Rozdziela 1:45 h, Wysoką 3 h, Szafranówkę 4:50 – 5 h, Schronisko PTTK „Orlica” 5:40 – 5:50 h, Sokolicę 6:30 – 7 h, Trzy Korony 8:30 – 9:30 h, Czorsztyn 10:45 – 12 h, Lubań 13 – 15 h, Limanową, Jezioro Rożnowskie, Gródek nad Dunajcem, Ciężkowice i Tuchów."
+},
+{
+"id":10,
+"id_szlaku":"gsb-bs",
+"odlegosc":21.70,
+"czas":"7:20",
+"wysokosc":1001.00,
+"atrakcje":"szczyt.svg  widok.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Niemcowa",
+"wezly_szlakow":"Szlak_start.svg Szlak_zolty.svg Piwniczna-Zdrój PKP 1:40 h<br> Szlak_start.svg Szlak_czarny.svg Chatka pod Niemcową 0:10 h<br> Szlak_start.svg Szlak_zielony.svg (szlak gminny) Roztoka Ryterska 1:45 h"
+},
+{
+"id":11,
+"id_szlaku":"gsb-bs",
+"odlegosc":24.10,
+"czas":"8:00",
+"wysokosc":763.00,
+"atrakcje":"szczyt.svg  schronisko.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Kordowiec",
+"wezly_szlakow":"Szlak_start.svg Szlak_niebieski.svg (szlak gminny) Sucha Struga (Kretówki) 2:20 h przez Młodów PKP 1 h<br> Szlak_start.svg Szlak_zielony.svg (szlak gminny) Rytro PKP 1:05 h"
+},
+{
+"id":12,
+"id_szlaku":"gsb-bs",
+"odlegosc":28.40,
+"czas":"9:25",
+"wysokosc":338.00,
+"atrakcje":"kosciol.svg  zamek.svg  ruiny.svg  hotel.svg  kolej.svg  bus.svg",
+"miejsce":"Rytro (PKP i PKS)",
+"wezly_szlakow":"Szlak_start.svg Szlak_niebieski.svg Szczawnica 6 – 6:30 h przez Schronisko PTTK na Przehybie 3:50 h<br> Szlak_start.svg Szlak_zielony.svg (szlak gminny) Kordowiec 1:40 h<br> Szlak_start.svg Szlak_zolty.svg (szlak gminny) Kanarkówka 1:55 h"
+},
+{
+"id":13,
+"id_szlaku":"gsb-bs",
+"odlegosc":30.30,
+"czas":"10:35",
+"wysokosc":719.00,
+"atrakcje":"skaly.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Sucha Struga (Kretówki)",
+"wezly_szlakow":"Szlak_start.svg Szlak_niebieski.svg (szlak gminny) Kordowiec 2:20 h przez Młodów PKP 1 h"
+},
+{
+"id":14,
+"id_szlaku":"gsb-bs",
+"odlegosc":31.50,
+"czas":"10:55",
+"wysokosc":844.00,
+"atrakcje":"schronisko.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Schronisko Cyrla",
+"wezly_szlakow":"Szlak_start.svg Szlak_zolty.svg (szlak gminny) Rzeczanów (Życzanów) PKS 1:45 h"
+},
+{
+"id":15,
+"id_szlaku":"gsb-bs",
+"odlegosc":32.70,
+"czas":"11:15",
+"wysokosc":921.00,
+"atrakcje":"rezerwat_krajobrazowy.svg",
+"miejsce":"Makowica (zach. zbocze) – okolice Polany Wyrąb",
+"wezly_szlakow":"Szlak_start.svg Szlak_niebieski.svg Barcice PKP 2:30 h<br> Szlak_start.svg Szlak_zielony.svg Nowy Sącz PKP 4 h przez Żeleźnikową Małą 2:25 h"
+},
+{
+"id":16,
+"id_szlaku":"gsb-bs",
+"odlegosc":36.10,
+"czas":"12:15",
+"wysokosc":1044.00,
+"atrakcje":"szczyt.svg  widok.svg  pomnik.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Hala Pisana",
+"wezly_szlakow":"Szlak_skrzyz.svg Szlak_zolty.svg Piwniczna-Zdrój 2:05 h ←  szczyt.svg → Frycowa PKS 2:25 h"
+},
+{
+"id":17,
+"id_szlaku":"gsb-bs",
+"odlegosc":40.80,
+"czas":"13:20",
+"wysokosc":1061.00,
+"atrakcje":"schronisko.svg  pomnik.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Schronisko PTTK na Hali Łabowskiej",
+"wezly_szlakow":"Szlak_skrzyz.svg Szlak_niebieski.svg Piwniczna-Zdrój PKP 2:35 h przez Łomnicę-Zdrój 1:40 h ←  schronisko.svg → Łabowa PKS 2:05 h<br> Szlak_start.svg Szlak_zolty.svg Łomnica-Zdrój PKP 2:35 h przez Łomnicę Zdrój (pocztę i szkołę) 2:05 h"
+},
+{
+"id":18,
+"id_szlaku":"gsb-bs",
+"odlegosc":48.10,
+"czas":"15:00",
+"wysokosc":1082.00,
+"atrakcje":"szczyt.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Runek",
+"wezly_szlakow":"Szlak_skrzyz.svg Szlak_niebieski.svg Żegiestów-Zdrój PKS 3:50 h przez Bacówkę PTTK nad Wierchomlą 0:35 h i Pustą Wielką 1:50 h oraz Żegiestów Palenicę 2:35 h ←  szczyt.svg → Leluchów PKP 8 – 9 h przez Drabiakówkę 1:05 h, przełęcz Krzyżową 1:35 h, Krynicę Zdrój 2:10 h i Górę Parkową 2:40 h oraz Powroźnik 5 h"
+},
+{
+"id":19,
+"id_szlaku":"gsb-bs",
+"odlegosc":51.40,
+"czas":"16:00",
+"wysokosc":1114.00,
+"atrakcje":"szczyt.svg  muzeum.svg  schronisko.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Jaworzyna Krynicka",
+"wezly_szlakow":"Szlak_skrzyz.svg Szlak_zielony.svg Muszyna 2:25 h przez Złockie 1:45 h ←  szczyt.svg → Diabelski Kamień 0:45 h przez Muzeum Turystki Górskiej PTTK na Jaworzynie Krynickiej 0:20 h"
+},
+{
+"id":20,
+"id_szlaku":"gsb-bs",
+"odlegosc":52.40,
+"czas":"16:25",
+"wysokosc":962.00,
+"atrakcje":"skaly.svg  jaskinia.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Diabelski Kamień  skaly.svg – Diabla Dziura  jaskinia.svg",
+"wezly_szlakow":"Szlak_skrzyz.svg Szlak_zielony.svg Muszyna 3:20 h przez Muzeum Turystki Górskiej PTTK na Jaworzynie Krynickiej 0:30 h i Jaworzynę Krynicką 0:55 h oraz Złockie 2:40 h ←  skaly.svg → Stróże PKP przez Przełęcz Krzyżową 1 h, Krynicę Zdrój 1:35 h, Huzary 2:35 h, Dzielec 4:10 h, Lackową 5:30 – 6 h, Wysową Zdrój, Kozie Żebro, Skwirtne, Magurę Małastowską, Przełęcz Zdżar, Szymbark i Maślaną Górę - Szlak Wincentego Pola"
+},
+{
+"id":21,
+"id_szlaku":"gsb-bs",
+"odlegosc":54.60,
+"czas":"17:10",
+"wysokosc":601.00,
+"atrakcje":"bus.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Czarny Potok (Ośr. wyp. AR) PKS",
+"wezly_szlakow":null
+},
+{
+"id":22,
+"id_szlaku":"gsb-bs",
+"odlegosc":58.00,
+"czas":"18:15",
+"wysokosc":572.00,
+"atrakcje":"kosciol.svg  zabytek.svg  muzeum.svg  kaplica.svg  kolej.svg  bus.svg  cmentarz.svg  hotel.svg  zrodlo.svg  maszt.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Krynica-Zdrój",
+"wezly_szlakow":"Szlak_skrzyz.svg Szlak_zolty.svg Kopciowa PKS 2:10 h przez Przełęcz Krzyżową 0:45 h i Drabiakówkę 1:15 h ← Krynica-Zdrój → Kopciowa PKS 2:30 h przez Górę Parkową 0:30 h i Huzary 1:10 h<br> Szlak_skrzyz.svg Szlak_niebieski.svg Żegiestów-Zdrój PKS 6:15 – 6:45 h przez Przełęcz Krzyżową 0:45 h, Drabiakówkę 1:15 h, Runek 2:40 h, Bacówkę PTTK nad Wierchomlą 3:15 h i Pustą Wielką 4:30 h oraz Żegiestów Palenicę 5:10 – 5:20 h ← Krynica-Zdrój → Leluchów PKP 6 – 6:45 h przez Górę Parkową 0:30 h i Powroźnik 2:50 h"
+},
+{
+"id":23,
+"id_szlaku":"gsb-bs",
+"odlegosc":59.00,
+"czas":"18:25",
+"wysokosc":582.00,
+"atrakcje":"kosciol.svg  zabytek.svg  muzeum.svg  bus.svg  hotel.svg  zrodlo.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Krynica-Zdrój (kościół NMP Wniebowziętej)",
+"wezly_szlakow":"Szlak_dolacz.svg Szlak_zielony.svg Muszyna 5:10 h przez Przełęcz Krzyżową 0:45 h, Muzeum Turystki Górskiej PTTK na Jaworzynie Krynickiej 2:20 h i Jaworzynę Krynicką 2:45 h oraz Złockie 4:30 h ←  kosciol.svg → Huzary 1 h"
+},
+{
+"id":24,
+"id_szlaku":"gsb-bs",
+"odlegosc":62.40,
+"czas":"19:25",
+"wysokosc":864.00,
+"atrakcje":"szczyt.svg  rezerwat_krajobrazowy.svgPopradzki P.K.",
+"miejsce":"Huzary",
+"wezly_szlakow":"Szlak_skrzyz.svg Szlak_zolty.svg Drabiakówka 2:20 h przez Kopciową PKS 1:20 h ←  szczyt.svg → Drabiakówka 2:15 h przez Górę Parkową 0:35 h i Krynicę-Zdrój 1 h oraz Przełęcz Krzyżową 1:45 h<br> Szlak_skrzyz.svg Szlak_czarny.svg Kopiec Pułaskiego w Krynicy-Zdroju 0:15 h ←  szczyt.svg → Tylicz 1 h<br> Szlak_zielony.svg (Szlak Wincentego Pola) odchodzi do Stróż PKP przez Dzielec 1:35 h, Lackową 3 – 3:30 h, Wysową Zdrój, Kozie Żebro, Skwirtne, Magurę Małastowską, Przełęcz Zdżar, Szymbark i Maślaną Górę"
+},
+{
+"id":32,
+"id_szlaku":"gsb-bn",
+"odlegosc":0.00,
+"czas":"0",
+"wysokosc":864.00,
+"atrakcje":"szczyt.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Huzary",
+"wezly_szlakow":"Szlak_skrzyz.svg Szlak_zolty.svg Drabiakówka 2:20 h przez Kopciową PKS 1:20 h  szczyt.svg Drabiakówka 2:15 h przez Górę Parkową 0:35 h i Krynicę-Zdrój 1 h oraz Przełęcz Krzyżową 1:45 h<br> Szlak_skrzyz.svg Szlak_czarny.svg Kopiec Pułaskiego w Krynicy-Zdroju 0:15 h  szczyt.svg Tylicz 1 h<br> Szlak_zielony.svg (Szlak Wincentego Pola) – odchodzi do Stróż PKP przez Dzielec 1:35 h, Lackową 3 – 3:30 h, Wysową Zdrój, Kozie Żebro, Skwirtne, Magurę Małastowską, Przełęcz Zdżar, Szymbark i Maślaną Górę"
+},
+{
+"id":33,
+"id_szlaku":"gsb-bn",
+"odlegosc":2.70,
+"czas":"01:00",
+"wysokosc":629.00,
+"atrakcje":"kosciol.svg  kaplica.svg  zabytek.svg  drzewo.svg  bus.svg",
+"miejsce":"Mochnaczka Niżna",
+"wezly_szlakow":null
+},
+{
+"id":34,
+"id_szlaku":"gsb-bn",
+"odlegosc":6.70,
+"czas":null,
+"wysokosc":530.00,
+"atrakcje":"kosciol.svg  zabytek.svg  cmentarz.svg  bus.svg",
+"miejsce":"Banica",
+"wezly_szlakow":null
+},
+{
+"id":35,
+"id_szlaku":"gsb-bn",
+"odlegosc":8.70,
+"czas":null,
+"wysokosc":550.00,
+"atrakcje":"kaplica.svg  bus.svg",
+"miejsce":"droga do Izb",
+"wezly_szlakow":null
+},
+{
+"id":36,
+"id_szlaku":"gsb-bn",
+"odlegosc":14.00,
+"czas":"04:00",
+"wysokosc":560.00,
+"atrakcje":"hotel.svg  cmentarz.svg",
+"miejsce":"Ropki",
+"wezly_szlakow":"Szlak_skrzyz.svg Szlak_niebieski.svg Niebieski szlak turystyczny Rzeszów - Grybów<br>Grybów przez Bordiów Wierch – Homolę – Wawrzkę i Chełm Ropki Rzeszów przez Wysową-Zdrój- Przełęcz Regetowską – Jaworzynę Konieczniańską – Konieczną – Przełęcz Beskid nad Ożenną – Ożenną – Hutę Polańską – Barwinek – Przełęcz Dukielską – Przełęcz Radoszycką – a dalej przez: Bieszczady Zachodnie, Góry Sanocko-Turczańskie, Pogórze Przemyskie i Pogórze Dynowskie<br> Szlak_start.svg Szlak_zolty.svg Ostry Wierch przez Przełęcz Prehyba i Białą Skałę"
+},
+{
+"id":37,
+"id_szlaku":"gsb-bn",
+"odlegosc":17.00,
+"czas":"04:55",
+"wysokosc":450.00,
+"atrakcje":"kosciol.svg  kaplica.svg  zabytek.svg  schronisko.svg  bus.svg",
+"miejsce":"Hańczowa",
+"wezly_szlakow":"/N"
+},
+{
+"id":38,
+"id_szlaku":"gsb-bn",
+"odlegosc":20.20,
+"czas":"06:55",
+"wysokosc":847.00,
+"atrakcje":"szczyt.svg",
+"miejsce":"Kozie Żebro",
+"wezly_szlakow":"Szlak_skrzyz.svg Szlak_zielony.svg (Szlak Wincentego Pola)<br>Stróże przez Skwirtne, Smerekowiec, Magurę Małastowską, Przełęcz Zdżar, Szymbark i Maślaną Górę  szczyt.svg Muszyna przez Wysową-Zdrój, Ostry Wierch, Lackową, Huzary, Krynicę-Zdrój i Jaworzynę Krynicką"
+},
+{
+"id":39,
+"id_szlaku":"gsb-bn",
+"odlegosc":23.20,
+"czas":"07:40",
+"wysokosc":535.00,
+"atrakcje":null,
+"miejsce":"Regietów",
+"wezly_szlakow":"Szlak_start.svg Szlak_zolty.svg Wysowa-Zdrój przez Przełęcz Regetowską i Przełęcz Wysowską oraz Blechnarkę"
+},
+{
+"id":40,
+"id_szlaku":"gsb-bn",
+"odlegosc":24.90,
+"czas":null,
+"wysokosc":771.00,
+"atrakcje":"szczyt.svg  cmentarz.svg",
+"miejsce":"Rotunda",
+"wezly_szlakow":null
+},
+{
+"id":41,
+"id_szlaku":"gsb-bn",
+"odlegosc":28.30,
+"czas":"09:40",
+"wysokosc":475.00,
+"atrakcje":"bus.svg  schronisko.svg  kaplica.svg",
+"miejsce":"Zdynia (Ług)",
+"wezly_szlakow":null
+},
+{
+"id":42,
+"id_szlaku":"gsb-bn",
+"odlegosc":30.70,
+"czas":null,
+"wysokosc":684.00,
+"atrakcje":"szczyt.svg",
+"miejsce":"Popowe Wierchy",
+"wezly_szlakow":null
+},
+{
+"id":43,
+"id_szlaku":"gsb-bn",
+"odlegosc":33.40,
+"czas":"12:10",
+"wysokosc":570.00,
+"atrakcje":"kosciol.svg  zabytek.svg  kaplica.svg  cmentarz.svg",
+"miejsce":"Krzywa",
+"wezly_szlakow":null
+},
+{
+"id":44,
+"id_szlaku":"gsb-bn",
+"odlegosc":36.00,
+"czas":"13:10",
+"wysokosc":500.00,
+"atrakcje":"kosciol.svg  zabytek.svg  kaplica.svg",
+"miejsce":"Wołowiec",
+"wezly_szlakow":"Szlak_skrzyz.svg Szlak_zolty.svg Folusz przez Banicę i Bartne  kosciol.svg Przełęcz Dujawa przez Nieznajową i Radocynę"
+},
+{
+"id":45,
+"id_szlaku":"gsb-bn",
+"odlegosc":40.10,
+"czas":"15:10",
+"wysokosc":620.00,
+"atrakcje":"schronisko.svg  kaplica.svg",
+"miejsce":"Bacówka PTTK w Bartnem",
+"wezly_szlakow":"Szlak_start.svg Szlak_niebieski.svg Szalowa PKP przez Banicę, Magurę Małastowską, Obocz, Siary i Gorlice"
+},
+{
+"id":46,
+"id_szlaku":"gsb-bn",
+"odlegosc":41.60,
+"czas":null,
+"wysokosc":625.00,
+"atrakcje":"przelecz.svg",
+"miejsce":"Przełęcz Majdan",
+"wezly_szlakow":null
+},
+{
+"id":47,
+"id_szlaku":"gsb-bn",
+"odlegosc":42.20,
+"czas":"16:40",
+"wysokosc":842.00,
+"atrakcje":"szczyt.svg  park_narodowy.svg  kaplica.svg  pomnik.svg",
+"miejsce":"Magura",
+"wezly_szlakow":"Szlak_skrzyz.svg Szlak_zielony.svg Gorlice PKP i PKS przez Wątkową, Kornuty, Barwinok, Mały Ferdel, Wapienne i Męcinę Wielką  szczyt.svg Ożenna przez Folusz, Mrukową, Nowy Żmigród, Grzywacką Górę, Kąty, Obszar Ochrony Ścisłej Kamień, Krempną i Wysokie"
+},
+{
+"id":48,
+"id_szlaku":"gsb-bn",
+"odlegosc":45.40,
+"czas":null,
+"wysokosc":801.00,
+"atrakcje":"szczyt.svg  park_narodowy.svg",
+"miejsce":"Świerzowa",
+"wezly_szlakow":null
+},
+{
+"id":49,
+"id_szlaku":"gsb-bn",
+"odlegosc":49.10,
+"czas":"19:00",
+"wysokosc":635.00,
+"atrakcje":"park_narodowy.svg",
+"miejsce":"Ostrysz (wsch. zbocze)",
+"wezly_szlakow":"Szlak_skrzyz.svg Szlak_zolty.svg Mrukowa przez Kaplicę pod Trzema Kopcami Ostrysz Przełęcz Hałbowska przez Kotań"
+},
+{
+"id":50,
+"id_szlaku":"gsb-bn",
+"odlegosc":50.30,
+"czas":null,
+"wysokosc":705.00,
+"atrakcje":"szczyt.svg  park_narodowy.svg",
+"miejsce":"Kolanin",
+"wezly_szlakow":null
+},
+{
+"id":51,
+"id_szlaku":"gsb-bn",
+"odlegosc":55.60,
+"czas":"21:20",
+"wysokosc":577.00,
+"atrakcje":"przelecz.svg  park_narodowy.svg  cmentarz.svg  bus.svg",
+"miejsce":"Przełęcz Hałbowska",
+"wezly_szlakow":"Szlak_skrzyz.svg Szlak_zolty.svg Ostrysz (wsch. zbocze) przez Kotań  przelecz.svg Krempna"
+},
+{
+"id":52,
+"id_szlaku":"gsb-bn",
+"odlegosc":58.00,
+"czas":"21:55",
+"wysokosc":630.00,
+"atrakcje":"rezerwat_scisly.svg  park_narodowy.svg",
+"miejsce":"Obszar Ochrony Ścisłej Kamień",
+"wezly_szlakow":"Szlak_dolacz.svg Szlak_zielony.svg Ożenna przez Krempną i Wysokie  rezerwat_scisly.svg Grzywacka Góra przez Kąty"
+},
+{
+"id":53,
+"id_szlaku":"gsb-bn",
+"odlegosc":62.20,
+"czas":"23:10",
+"wysokosc":335.00,
+"atrakcje":"kaplica.svg  bus.svg",
+"miejsce":"Kąty",
+"wezly_szlakow":""
+},
+{
+"id":54,
+"id_szlaku":"gsb-bn",
+"odlegosc":66.30,
+"czas":"24:10",
+"wysokosc":540.00,
+"atrakcje":"szczyt.svg  widok.svg  kaplica.svg",
+"miejsce":"Grzywacka Góra (płd zbocze)",
+"wezly_szlakow":"Szlak_zielony.svg skręca do Gorlic PKP i PKS przez Nowy Żmigród, Mrukową, Folusz, Magurę, Wątkową, Kornuty, Barwinok, Mały Ferdel, Wapienne i Męcinę Wielką"
+},
+{
+"id":55,
+"id_szlaku":"gsb-bn",
+"odlegosc":68.00,
+"czas":null,
+"wysokosc":641.00,
+"atrakcje":"szczyt.svg  rezerwat_scisly.svg  widok.svg",
+"miejsce":"Łysa Góra",
+"wezly_szlakow":null
+},
+{
+"id":56,
+"id_szlaku":"gsb-bn",
+"odlegosc":70.90,
+"czas":null,
+"wysokosc":651.00,
+"atrakcje":"szczyt.svg",
+"miejsce":"Polana",
+"wezly_szlakow":null
+},
+{
+"id":57,
+"id_szlaku":"gsb-bn",
+"odlegosc":73.90,
+"czas":"26:10",
+"wysokosc":558.00,
+"atrakcje":"kosciol.svg  zabytek.svg  pomnik.svg  schronisko.svg  bus.svg",
+"miejsce":"Chyrowa",
+"wezly_szlakow":null
+},
+{
+"id":58,
+"id_szlaku":"gsb-bn",
+"odlegosc":78.00,
+"czas":"27:40",
+"wysokosc":600.00,
+"atrakcje":null,
+"miejsce":"Chyrowa (płd zbocze)",
+"wezly_szlakow":"Szlak_start.svg Szlak_zolty.png  Dukla przez Kardasz"
+},
+{
+"id":59,
+"id_szlaku":"gsb-bn",
+"odlegosc":82.30,
+"czas":"29:00",
+"wysokosc":500.00,
+"atrakcje":"kosciol.svg  zabytek.svg  zrodlo.svg",
+"miejsce":"Pustelnia Świętego Jana",
+"wezly_szlakow":"Szlak_start.svg Szlak_zielony.svg Barwinek przez Stasiane, Ostrą, Czerwony Horb i Zyndranową<br> Szlak_start.svg POL niebieska.svg Rezerwat Tysiąclecia na Cergowej Górze przez Nową Wieś"
+},
+{
+"id":60,
+"id_szlaku":"gsb-bn",
+"odlegosc":83.40,
+"czas":"29:20",
+"wysokosc":350.00,
+"atrakcje":"bus.svg",
+"miejsce":"Droga krajowa nr 9 między Nową Wsią a Trzcianą",
+"wezly_szlakow":null
+},
+{
+"id":61,
+"id_szlaku":"gsb-bn",
+"odlegosc":87.60,
+"czas":"31:00",
+"wysokosc":716.00,
+"atrakcje":"szczyt.svg  rezerwat_roslinny.svg ",
+"miejsce":"Cergowa",
+"wezly_szlakow":"Szlak_skrzyz.svg POL zolta.svg Dukla przez Rezerwat Tysiąclecia na Cergowej Górze  szczyt.svg Stasiane przez Zawadkę Rymanowską i Piotrusia"
+},
+{
+"id":62,
+"id_szlaku":"gsb-bn",
+"odlegosc":92.60,
+"czas":"32:30",
+"wysokosc":415.00,
+"atrakcje":"kosciol.svg  zabytek.svg  cmentarz.svg  bus.svg",
+"miejsce":"Lubatowa",
+"wezly_szlakow":null
+},
+{
+"id":63,
+"id_szlaku":"gsb-bn",
+"odlegosc":93.60,
+"czas":null,
+"wysokosc":480.00,
+"atrakcje":"widok.svg",
+"miejsce":"Żabia (płd-wsch. zbocze)",
+"wezly_szlakow":null
+},
+{
+"id":64,
+"id_szlaku":"gsb-bn",
+"odlegosc":96.40,
+"czas":"33:45",
+"wysokosc":400.00,
+"atrakcje":"kosciol.svg  zabytek.svg  zrodlo.svg  hotel.svg  pole_namiotowe.svg  bus.svg",
+"miejsce":"Iwonicz-Zdrój",
+"wezly_szlakow":"Szlak_start.svg Szlak_zielony.svg Rymanów-Zdrój 2 h przez Górę Przymiarki 1:15 h<br> Szlak_start.svg Szlak_zolty.svg Klimkówka (Kościółek Świętokrzyski) 1:10 h<br> Szlak_start.svg Ścieżka krajoznawcza - zolta.svg Las Piekliska (kapliczka) 1 h (szlak im. F. Piwarskiego)<br> Szlak_start.svg Ścieżka krajoznawcza - czerwona.svg Góra Żabia 1 h (szlak im W. Bełzy)<br> Szlak_start.svg Ścieżka krajoznawcza - niebieska.svg Las Grabiński 1:30 h przez Cyrenajkę 0:50 h<br> Szlak_skrzyz.svg Ścieżka krajoznawcza - zielona.svg Bałucianka (cerkiew) 1:40 h przez Górę Przymiarki 1:15 h  zrodlo.svg Warzelnia Soli 1:15 h przez Źródło Bełkotka 0:15 h"
+},
+{
+"id":65,
+"id_szlaku":"gsb-bn",
+"odlegosc":104.70,
+"czas":"36:00",
+"wysokosc":380.00,
+"atrakcje":"kosciol.svg  zrodlo.svg  hotel.svg  schronisko.svg  pole_namiotowe.svg  bus.svg",
+"miejsce":"Rymanów-Zdrój",
+"wezly_szlakow":"Szlak_start.svg POL ścieżka zielona.svg Iwonicz-Zdrój przez Kopę Szlak_skrzyz.svg POL niebieska.svg Rymanów-Zdrój przez Wołtuszową (szlak wokół uzdrowiska)"
+},
+{
+"id":66,
+"id_szlaku":"gsb-bn",
+"odlegosc":106.80,
+"czas":null,
+"wysokosc":450.00,
+"atrakcje":"pomnik_przyrody.svg",
+"miejsce":"Rymanów-Zdrój (Wołtuszowa)",
+"wezly_szlakow":"Szlak_start.svg POL ścieżka czerwona.svg Rymanów-Zdrój (leśniczówka) przez Zamczyska<br> Szlak_skrzyz.svg POL niebieska.svg Rymanów-Zdrój  pomnik_przyrody.svg Rymanów-Zdrój"
+},
+{
+"id":67,
+"id_szlaku":"gsb-bn",
+"odlegosc":110.60,
+"czas":"38:00",
+"wysokosc":470.00,
+"atrakcje":"pole_namiotowe.svg  bus.svg",
+"miejsce":"Wisłoczek",
+"wezly_szlakow":""
+},
+{
+"id":68,
+"id_szlaku":"gsb-bn",
+"odlegosc":113.30,
+"czas":null,
+"wysokosc":388.00,
+"atrakcje":"pole_namiotowe.svg  camping.svg  bus.svg",
+"miejsce":"Rudawka Rymanowska",
+"wezly_szlakow":""
+},
+{
+"id":69,
+"id_szlaku":"gsb-bn",
+"odlegosc":115.60,
+"czas":"39:00",
+"wysokosc":390.00,
+"atrakcje":"schronisko.svg  bus.svg",
+"miejsce":"Puławy Dolne",
+"wezly_szlakow":""
+},
+{
+"id":70,
+"id_szlaku":"gsb-bn",
+"odlegosc":118.40,
+"czas":"39:30",
+"wysokosc":460.00,
+"atrakcje":"kaplica.svg  schronisko.svg  bus.svg",
+"miejsce":"Puławy Górne",
+"wezly_szlakow":"Szlak_dolacz.svg Szlak_zielony.svg Besko przez Pastwiska  kaplica.svg Rezerwat Bukowica"
+},
+{
+"id":71,
+"id_szlaku":"gsb-bn",
+"odlegosc":121.10,
+"czas":"41:00",
+"wysokosc":750.00,
+"atrakcje":"rezerwat_roslinny.svg ",
+"miejsce":"Rezerwat Bukowica",
+"wezly_szlakow":"Szlak_zielony.svg skręca do Komańczy PKP przez Moszczaniec, Babę, Garb Średni i Dołżycę"
+},
+{
+"id":72,
+"id_szlaku":"gsb-bn",
+"odlegosc":128.40,
+"czas":"43:15",
+"wysokosc":700.00,
+"atrakcje":null,
+"miejsce":"Pasmo Bukowicy",
+"wezly_szlakow":"Szlak_skrzyz.svg Szlak_zolty.svg Wola Piotrowa Pasmo Bukowicy Baba przez Wisłok Wielki i Wisłok Górny"
+},
+{
+"id":73,
+"id_szlaku":"gsb-bn",
+"odlegosc":130.10,
+"czas":null,
+"wysokosc":778.00,
+"atrakcje":"szczyt.svg  widok.svg  maszt.svg",
+"miejsce":"Tokarnia",
+"wezly_szlakow":null
+},
+{
+"id":74,
+"id_szlaku":"gsb-bn",
+"odlegosc":132.90,
+"czas":null,
+"wysokosc":545.00,
+"atrakcje":null,
+"miejsce":"Przybyszów",
+"wezly_szlakow":null
+},
+{
+"id":75,
+"id_szlaku":"gsb-bn",
+"odlegosc":136.70,
+"czas":"45:15",
+"wysokosc":640.00,
+"atrakcje":null,
+"miejsce":"Kamień (płd zbocze)",
+"wezly_szlakow":null
+},
+{
+"id":76,
+"id_szlaku":"gsb-bn",
+"odlegosc":142.00,
+"czas":null,
+"wysokosc":666.00,
+"atrakcje":"szczyt.svg  widok.svg",
+"miejsce":"Wahalowski Wierch",
+"wezly_szlakow":null
+},
+{
+"id":77,
+"id_szlaku":"gsb-bn",
+"odlegosc":146.90,
+"czas":null,
+"wysokosc":460.00,
+"atrakcje":"kosciol.svg  zabytek.svg  muzeum.svg  pomnik.svg  schronisko.svg  kolej.svg  bus.svg",
+"miejsce":"Komańcza Letnisko PKP",
+"wezly_szlakow":"Szlak_skrzyz.svg POL ścieżka czerwona.svg Komańcza PKP  kolej.svg Komańcza PKP (szlak wokół miejscowości)"
+},
+{
+"id":78,
+"id_szlaku":"gsb-bn",
+"odlegosc":147.40,
+"czas":"47:15",
+"wysokosc":450.00,
+"atrakcje":"kosciol.svg  zabytek.svg  muzeum.svg  pomnik.svg  hotel.svg  schronisko.svg  pole_namiotowe.svg  kolej.svg  bus.svg",
+"miejsce":"Komańcza PKP",
+"wezly_szlakow":"Szlak_start.svg Szlak_zielony.svg Besko przez Dołżycę, Garb Średni, Babę, Moszczaniec, Rezerwat Bukowica, Puławy Górne i Pastwiska"
+},
+{
+"id":95,
+"id_szlaku":"gsb-b",
+"odlegosc":0.00,
+"czas":null,
+"wysokosc":450.00,
+"atrakcje":"kosciol.svg  zabytek.svg  muzeum.svg  pomnik.svg  hotel.svg  schronisko.svg  pole_namiotowe.svg  kolej.svg  bus.svg",
+"miejsce":"Komańcza PKP",
+"wezly_szlakow":"Szlak_start.svg Szlak_zielony.svg Besko przez Dołżycę, Garb Średni, Babę, Moszczaniec, Rezerwat Bukowica, Puławy Górne i Pastwiska"
+},
+{
+"id":96,
+"id_szlaku":"gsb-b",
+"odlegosc":2.70,
+"czas":"00:50",
+"wysokosc":446.00,
+"atrakcje":"pole_namiotowe.svg  rezerwat_krajobrazowy.svg ← Ciśniańsko-Wetliński P.K.",
+"miejsce":"Prełuki",
+"wezly_szlakow":null
+},
+{
+"id":97,
+"id_szlaku":"gsb-b",
+"odlegosc":5.60,
+"czas":"01:35",
+"wysokosc":496.00,
+"atrakcje":"pole_namiotowe.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Duszatyn",
+"wezly_szlakow":null
+},
+{
+"id":98,
+"id_szlaku":"gsb-b",
+"odlegosc":9.60,
+"czas":"02:40",
+"wysokosc":698.00,
+"atrakcje":"rezerwat_scisly.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Jeziorka Duszatyńskie – Rezerwat Zwiezło",
+"wezly_szlakow":null
+},
+{
+"id":99,
+"id_szlaku":"gsb-b",
+"odlegosc":13.20,
+"czas":"03:45",
+"wysokosc":997.00,
+"atrakcje":"szczyt.svg  cmentarz.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Chryszczata",
+"wezly_szlakow":"Szlak_start.svg Szlak_zielony.svg Schronisko Kropiwne 2:30 h przez Rabe 1:20 <br> Szlak_start.svg Szlak_niebieski.svg Sanok PKP i PKS przez Turzańsk 1:35 h, Suliłę 2:05 h, Morochów PKP i Stróże Wielkie<br> Szlak_start.svg POL zolta.svg (Szlak dojściowy do bazy namiotowej PTTK Rabe) Wola Michowa 4:35 h przez SBN Rabe 1:10 h i Jaworne 2:35 h (UWAGA: Szlak słabo widoczny)"
+},
+{
+"id":100,
+"id_szlaku":"gsb-b",
+"odlegosc":17.70,
+"czas":"05:05",
+"wysokosc":816.00,
+"atrakcje":"przelecz.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Przełęcz Żebrak",
+"wezly_szlakow":null
+},
+{
+"id":101,
+"id_szlaku":"gsb-b",
+"odlegosc":20.20,
+"czas":"06:00",
+"wysokosc":992.00,
+"atrakcje":"szczyt.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Jaworne",
+"wezly_szlakow":"Szlak_skrzyz.svg POL zolta.svg (Szlak dojściowy do bazy namiotowej PTTK Rabe) Wola Michowa 2 h ←  szczyt.svg → Chryszczata 2:40 h przez SBN Rabe 1:05 h (UWAGA: Szlak słabo widoczny)"
+},
+{
+"id":102,
+"id_szlaku":"gsb-b",
+"odlegosc":20.90,
+"czas":"06:10",
+"wysokosc":928.00,
+"atrakcje":"rezerwat_krajobrazowy.svg",
+"miejsce":"Jaworne (płd-wsch. zbocze)",
+"wezly_szlakow":"Szlak_start.svg Szlak_czarny.svg Przełęcz Mieczysława Orłowicza 10 – 11:20 h przez Kołonice (Łubne) 1:20 h, Jabłonki 1:35 h, Łopiennik 4:05 h, Dołżycę PKP 5:10 – 5:20 h, Czereninę 6:45 – 7:15 h i Bacówkę PTTK „Jaworzec” 8 – 8:30 h"
+},
+{
+"id":103,
+"id_szlaku":"gsb-b",
+"odlegosc":24.00,
+"czas":"06:50",
+"wysokosc":1071.00,
+"atrakcje":"szczyt.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Wołosań (Patryja)",
+"wezly_szlakow":null
+},
+{
+"id":104,
+"id_szlaku":"gsb-b",
+"odlegosc":30.50,
+"czas":"08:20",
+"wysokosc":820.00,
+"atrakcje":"szczyt.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Hon",
+"wezly_szlakow":null
+},
+{
+"id":105,
+"id_szlaku":"gsb-b",
+"odlegosc":31.50,
+"czas":"08:35",
+"wysokosc":657.00,
+"atrakcje":"schronisko.svg  pole_namiotowe.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Bacówka PTTK „Pod Honem”",
+"wezly_szlakow":null
+},
+{
+"id":106,
+"id_szlaku":"gsb-b",
+"odlegosc":33.00,
+"czas":"09:00",
+"wysokosc":562.00,
+"atrakcje":"kosciol.svg  pomnik.svg  hotel.svg  schronisko.svg  pole_namiotowe.svg  bus.svg  kolej.svg (V – IX)  rezerwat_krajobrazowy.svg",
+"miejsce":"Cisna",
+"wezly_szlakow":"Szlak_start.svg Szlak_zolty.svg Przełęcz nad Roztokami Górnymi 2:25 h przez Majdan (skrzyżowanie) 0:35 h, Liszną 1 h i Roztoki Górne 2 h"
+},
+{
+"id":107,
+"id_szlaku":"gsb-b",
+"odlegosc":38.40,
+"czas":"10:45",
+"wysokosc":1097.00,
+"atrakcje":"szczyt.svg  widok.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Małe Jasło",
+"wezly_szlakow":null
+},
+{
+"id":108,
+"id_szlaku":"gsb-b",
+"odlegosc":40.40,
+"czas":"11:35",
+"wysokosc":1153.00,
+"atrakcje":"szczyt.svg  widok.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Jasło",
+"wezly_szlakow":null
+},
+{
+"id":109,
+"id_szlaku":"gsb-b",
+"odlegosc":42.00,
+"czas":"12:05",
+"wysokosc":1101.00,
+"atrakcje":"szczyt.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Okrąglik",
+"wezly_szlakow":"Szlak_skrzyz.svg Szlak_niebieski.svg Grybów przez Przełęcz nad Roztokami Górnymi 1 h, Czerenin, Przejście graniczne Balnica-Osadné, Nowy Łupków, a dalej przez: Beskid Niski ←  szczyt.svg → Rzeszów przez Dziurkowiec 2:10 h, Riabą Skałę 2:40 h, Czoło 3:20 h, Borsuk 3:55 h, Czerteż 4:45 h, Hrubki 5:10 h, Kamienną 5:35 – 5:45 h, Krzemieniec 6 – 6:15 h, Wielką Rawkę 6:40 – 7 h, Ustrzyki Górne 8:10 – 9 h, Wołosate 9:20 – 10:20 h, Przełęcz pod Tarnicą 11 – 12:20 h, a dalej przez: Góry Sanocko-Turczańskie, Pogórze Przemyskie i Pogórze Dynowskie"
+},
+{
+"id":110,
+"id_szlaku":"gsb-b",
+"odlegosc":44.30,
+"czas":"12:45",
+"wysokosc":1102.00,
+"atrakcje":"szczyt.svg  widok.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Fereczata",
+"wezly_szlakow":null
+},
+{
+"id":111,
+"id_szlaku":"gsb-b",
+"odlegosc":50.00,
+"czas":"14:05",
+"wysokosc":602.00,
+"atrakcje":"schronisko.svg  bus.svg  rezerwat_krajobrazowy.svg",
+"miejsce":"Smerek Wieś",
+"wezly_szlakow":null
+},
+{
+"id":112,
+"id_szlaku":"gsb-b",
+"odlegosc":55.30,
+"czas":"16:10",
+"wysokosc":1222.00,
+"atrakcje":"szczyt.svg  widok.svg  skaly.svg  park_narodowy.svg",
+"miejsce":"Smerek",
+"wezly_szlakow":null
+},
+{
+"id":113,
+"id_szlaku":"gsb-b",
+"odlegosc":56.50,
+"czas":"16:35",
+"wysokosc":1075.00,
+"atrakcje":"przelecz.svg  park_narodowy.svg",
+"miejsce":"Przełęcz Mieczysława Orłowicza",
+"wezly_szlakow":"Szlak_start.svg Szlak_czarny.svg Jaworne (płd-wsch. zbocze) 10:15 – 11:15 h przez Bacówkę PTTK „Jaworzec” 1:55 h, Czereninę 3:50 h, Dołżycę PKP 5 h, Łopiennik 6:30 – 6:50 h, Jabłonki 8:20 – 8:50 h i Kołonice (Łubne) 8:40 – 9:10 h"
+},
+{
+"id":114,
+"id_szlaku":"gsb-b",
+"odlegosc":59.20,
+"czas":"17:25",
+"wysokosc":1253.00,
+"atrakcje":"szczyt.svg  widok.svg  skaly.svg  park_narodowy.svg",
+"miejsce":"Połonina Wetlińska (Osadzki Wierch)",
+"wezly_szlakow":null
+},
+{
+"id":115,
+"id_szlaku":"gsb-b",
+"odlegosc":62.00,
+"czas":"18:10",
+"wysokosc":1228.00,
+"atrakcje":"szczyt.svg  widok.svg  schronisko.svg  skaly.svg  park_narodowy.svg",
+"miejsce":"Schronisko PTTK „Chatka Puchatka” na Połoninie Wetlińskiej",
+"wezly_szlakow":"Szlak_start.svg Szlak_zolty.svg Przełęcz Wyżna 0:55 h"
+},
+{
+"id":116,
+"id_szlaku":"gsb-b",
+"odlegosc":65.00,
+"czas":"19:20",
+"wysokosc":738.00,
+"atrakcje":"ruiny.svg  pole_namiotowe.svg  bus.svg  park_narodowy.svg",
+"miejsce":"Brzegi Górne",
+"wezly_szlakow":null
+},
+{
+"id":117,
+"id_szlaku":"gsb-b",
+"odlegosc":70.80,
+"czas":"21:25",
+"wysokosc":1230.00,
+"atrakcje":"szczyt.svg  widok.svg  skaly.svg  park_narodowy.svg",
+"miejsce":"Połonina Caryńska",
+"wezly_szlakow":"Szlak_skrzyz.svg Szlak_zielony.svg Jawornik 6 – 6:20 h przez Przełęcz Wyżniańską 1:15 h, Bacówkę PTTK pod Małą Rawką 1:35 h, Małą Rawkę 2:35 h i Wetlinę (kościół) 4:50 – 5 h ←  szczyt.svg → Magura Stuposiańska (płd-wsch. zbocze – szlak Szlak_niebieski.svg) 1:50 h przez Przysłup Caryński (Koliba Studencka) 1:15 h"
+},
+{
+"id":118,
+"id_szlaku":"gsb-b",
+"odlegosc":74.50,
+"czas":"22:30",
+"wysokosc":656.00,
+"atrakcje":"kosciol.svg  muzeum.svg  schronisko.svg  hotel.svg  pole_namiotowe.svg  bus.svg  park_narodowy.svg",
+"miejsce":"Ustrzyki Górne",
+"wezly_szlakow":null
+},
+{
+"id":119,
+"id_szlaku":"gsb-b",
+"odlegosc":79.50,
+"czas":"24:30",
+"wysokosc":1240.00,
+"atrakcje":"szczyt.svg  widok.svg  park_narodowy.svg",
+"miejsce":"Szeroki Wierch (zach. szczyt)",
+"wezly_szlakow":null
+},
+{
+"id":120,
+"id_szlaku":"gsb-b",
+"odlegosc":81.80,
+"czas":"25:10",
+"wysokosc":1315.00,
+"atrakcje":"szczyt.svg  widok.svg  park_narodowy.svg",
+"miejsce":"Szeroki Wierch (Tarniczka)",
+"wezly_szlakow":null
+},
+{
+"id":121,
+"id_szlaku":"gsb-b",
+"odlegosc":82.00,
+"czas":"25:15",
+"wysokosc":1276.00,
+"atrakcje":"przelecz.svg  park_narodowy.svg",
+"miejsce":"Przełęcz pod Tarnicą",
+"wezly_szlakow":"Szlak_start.svg Szlak_zolty.svg Tarnica 0:15 h<br> Szlak_dolacz.svg Szlak_niebieski.svg Grybów przez Wołosate 1:20 h, Ustrzyki Górne 2:30 h, Wielką Rawkę 4:40 – 5 h, Krzemieniec 5:15 – 5:35 h, Kamienną 5:40 – 6 h, Hrubki 6:05 – 6:25 h, Czerteż 6:30 – 6:50 h, Borsuk 7:15 – 7:45 h, Czoło 7:50 – 8:30 h, Riabą Skałę 8:30 – 9:10 h, Dziurkowiec, 8:55 – 9:35 h, Okrąglik 10:45 – 11:45 h i Przełęcz nad Roztokami Górnymi 11:40 – 12:50 h, a dalej przez: Beskid Niski ←  przelecz.svg → Przełęcz Goprowców 0:15 h,"
+},
+{ 
+"id":122,
+"id_szlaku":"gsb-b",
+"odlegosc":83.20,
+"czas":"25:30",
+"wysokosc":1160.00,
+"atrakcje":"przelecz.svg  park_narodowy.svg",
+"miejsce":"Przełęcz Goprowców",
+"wezly_szlakow":"Szlak_niebieski.svg odbija do Rzeszowa przez Krzemień 0:20 h, Bukowe Berdo (kulminacja najwyższego szczytu) 0:40 h, Bukowe Berdo (płn szczyt) 1:10 h, Pszczeliny (Widełki) PKS 3:10 h, Magurę Stuposiańską 4:40 – 5 h, Dwernik (kościół) 5:40 – 6 h, Dwernik (skrzyżowanie) 6:15 – 6:35 h, Otryt (Chata Socjologa) 7:20 – 7:50 h, Polanę 10:30 – 11:30 h, a dalej przez: Góry Sanocko-Turczańskie, Pogórze Przemyskie i Pogórze Dynowskie"
+},
+{ 
+"id":123,
+"id_szlaku":"gsb-b",
+"odlegosc":85.70,
+"czas":"25:55",
+"wysokosc":1320.00,
+"atrakcje":"szczyt.svg  skaly.svg  park_narodowy.svg",
+"miejsce":"Kopa Bukowska",
+"wezly_szlakow":null
+},
+{ 
+"id":124,
+"id_szlaku":"gsb-b",
+"odlegosc":88.00,
+"czas":"26:20",
+"wysokosc":1333.00,
+"atrakcje":"szczyt.svg  widok.svg  skaly.svg  park_narodowy.svg",
+"miejsce":"Halicz",
+"wezly_szlakow":null
+},
+{ 
+"id":125,
+"id_szlaku":"gsb-b",
+"odlegosc":89.20,
+"czas":"26:45",
+"wysokosc":1280.00,
+"atrakcje":"szczyt.svg  widok.svg  skaly.svg  park_narodowy.svg",
+"miejsce":"Rozsypaniec",
+"wezly_szlakow":null
+},
+{ 
+"id":126,
+"id_szlaku":"gsb-b",
+"odlegosc":90.30,
+"czas":"27:05",
+"wysokosc":1107.00,
+"atrakcje":"przelecz.svg  widok.svg  skaly.svg  zrodlo.svg  park_narodowy.svg",
+"miejsce":"Przełęcz Bukowska",
+"wezly_szlakow":null
+},
+{ 
+"id":127,
+"id_szlaku":"gsb-b",
+"odlegosc":97.20,
+"czas":"28:50",
+"wysokosc":724.00,
+"atrakcje":"schronisko.svg  ruiny.svg  pole_namiotowe.svg  bus.svg  park_narodowy.svg",
+"miejsce":"Wołosate",
+"wezly_szlakow":"Szlak_skrzyz.svg Szlak_niebieski.svg Niebieski szlak turystyczny Rzeszów - Grybów"
+},
+{
+"id_szlaku":"N-pd",
+"miejsce":"Rzeszów",
+"wysokosc":0.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-pd",
+"miejsce":"Łany ",
+"wysokosc":350.00,
+"wezly_szlakow":"Szlak_start.svg Szlak_zolty.svg do Dąbrowy"
+},
+{
+"id_szlaku":"N-pd",
+"miejsce":"Matysówka",
+"wysokosc":0.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-pd",
+"miejsce":"Borówki",
+"wysokosc":0.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-pd",
+"miejsce":"Hyżne, Nowa Wieś",
+"wysokosc":372.00,
+"wezly_szlakow":"Szlak_start.svg Szlak_zielony.svg wilcze"
+},
+{
+"id_szlaku":"N-pd",
+"miejsce":"Jawornik Polski",
+"wysokosc":0.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-pd",
+"miejsce":"Laskówka, dział",
+"wysokosc":405.00,
+"wezly_szlakow":"Szlak_dolacz.svg Szlak_zielony.svg Przemyśl"
+},
+{
+"id_szlaku":"N-pd",
+"miejsce":"Bachórz",
+"wysokosc":0.00,
+"wezly_szlakow":"Szlak_start.svg Szlak_zielony.svg Przemyśl"
+},
+{
+"id_szlaku":"N-pd",
+"miejsce":"Dynów",
+"wysokosc":0.00,
+"wezly_szlakow":"Szlak_start.svg Szlak_zolty.svg Siedliska"
+},
+{
+"id_szlaku":"N-pp",
+"miejsce":"Piątkowa",
+"wysokosc":0.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-pp",
+"miejsce":"Sufczyna",
+"wysokosc":0.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-pp",
+"miejsce":"Huta Brzuska",
+"wysokosc":0.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-pp",
+"miejsce":"Krzeczkowski Mur",
+"wysokosc":0.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-pp",
+"miejsce":"Krzeczkowa",
+"wysokosc":0.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-pp",
+"miejsce":"Olszany",
+"wysokosc":0.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-pp",
+"miejsce":"Krasiczyn",
+"wysokosc":0.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-pp",
+"miejsce":"Dybawka Dolna",
+"wysokosc":0.00,
+"wezly_szlakow":"Droga 28"
+},
+{
+"id_szlaku":"N-pp",
+"miejsce":"Prałkowska Góra",
+"wysokosc":358.00,
+"wezly_szlakow":"Szlak_skrzyz.svg Szlak_czarny.svg forteczna trasa rowerowa południowa Dybawka  – Prałkowska Góra – Medyka Towarowa PKP"
+},
+{
+"id_szlaku":"N-pp",
+"miejsce":"Wapielnica",
+"wysokosc":394.00,
+"wezly_szlakow":"Szlak_dolacz.svg Szlak_czerwony.svg Przemyśl – wapienicza – Kopystańka – Posada Rybotycka, Bircza kiczerka nad Łomną"
+},
+{
+"id_szlaku":"N-pp",
+"miejsce":"Szybenica",
+"wysokosc":496.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-pp",
+"miejsce":"Gruszowa",
+"wysokosc":0.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-pp",
+"miejsce":"Huwniki",
+"wysokosc":0.00,
+"wezly_szlakow":"wiar"
+},
+{
+"id_szlaku":"N-pp",
+"miejsce":"Kalwaria Pacławska",
+"wysokosc":0.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-pp",
+"miejsce":"Suchy Obycz",
+"wysokosc":618.00,
+"wezly_szlakow":"Szlak_start.svg Szlak_zolty.svg rybotycze – kopystańka"
+},
+{
+"id_szlaku":"N-pp",
+"miejsce":"Arłamów",
+"wysokosc":0.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-pp",
+"miejsce":"Jamna",
+"wysokosc":575.00,
+"wezly_szlakow":"Szlak_start.svg Szlak_zielony.svg Grąziowa - Leszczawa Dolna"
+},
+{
+"id_szlaku":"N-pp",
+"miejsce":"Jureczkowa",
+"wysokosc":0.00,
+"wezly_szlakow":"Droga 890"
+},
+{
+"id_szlaku":"N-gst",
+"miejsce":"Brańcowa",
+"wysokosc":677.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-gst",
+"miejsce":"Mosty",
+"wysokosc":640.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-gst",
+"miejsce":"Dźwiniacz Dolny",
+"wysokosc":0.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-gst",
+"miejsce":"Kamienna Laworta",
+"wysokosc":769.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-gst",
+"miejsce":"Ustrzyki Dolne",
+"wysokosc":0.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-gst",
+"miejsce":"Gromadzyń",
+"wysokosc":654.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-gst",
+"miejsce":"Równia",
+"wysokosc":0.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-gst",
+"miejsce":"Żuków, Bucznik",
+"wysokosc":726.00,
+"wezly_szlakow":"Szlak_skrzyz.svg Szlak_zielony.svg Ustianowa ← Bucznik → Żłobek , Besida(773)"
+},
+{
+"id_szlaku":"N-gst",
+"miejsce":"Teleśnica Oszwarowa",
+"wysokosc":0.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-gst",
+"miejsce":"Chrewt",
+"wysokosc":0.00,
+"wezly_szlakow":"mała pętla beskidzka"
+},
+{
+"id_szlaku":"N-gst",
+"miejsce":"Polana",
+"wysokosc":0.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-gst",
+"miejsce":"Pod Hulskim",
+"wysokosc":794.00,
+"wezly_szlakow":"rezerwat przyrody HULSKIE im. Stefana Myczkowskiego"
+},
+{
+"id_szlaku":"N-gst",
+"miejsce":"Otryt (Chata Socjologa)",
+"wysokosc":896.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Dwernik",
+"wysokosc":0.00,
+"wezly_szlakow":"San"
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Magura Stuposiańska",
+"wysokosc":1016.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Pod przełęczą Przysłup Caryński",
+"wysokosc":981.00,
+"wezly_szlakow":"Szlak_start.svg Szlak_zielony.svg – Koliba – Połonina Caryńska – przełęcz wyżniańska – Bacówka PTTK Pod Małą Rawką – Mała Rawka – dział – Wetlina – Jawornik"
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Pszczeliny–Widełki",
+"wysokosc":0.00,
+"wezly_szlakow":"wielka pętla bieszczadzka, Wołosatka"
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Bukowe Berdo",
+"wysokosc":1311.00,
+"wezly_szlakow":"Szlak_start.svg Szlak_zolty.svg Muczne"
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Krzemień",
+"wysokosc":1335.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Przełęcz Goprowska",
+"wysokosc":1160.00,
+"wezly_szlakow":"Szlak_dolacz.svg Szlak_czerwony.svg GSB"
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Przełęcz pod Tarnicą",
+"wysokosc":1275.00,
+"wezly_szlakow":"Szlak_dolacz.svg Szlak_czerwony.svg GSB"
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Wołosate",
+"wysokosc":0.00,
+"wezly_szlakow":"Szlak_dolacz.svg Szlak_czerwony.svg GSBSzlak_start.svg"
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Ustrzyki Górne",
+"wysokosc":0.00,
+"wezly_szlakow":"Szlak_dolacz.svg Szlak_czerwony.svg GSB"
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Wielka Rawka",
+"wysokosc":1304.00,
+"wezly_szlakow":"Szlak_start.svg Szlak_zolty.svg Mała Rawka"
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Krzemieniec",
+"wysokosc":1221.00,
+"wezly_szlakow":"Granica polski, Szlak_dolacz.svg Szlak_czerwony.svg szlak karpacki Nowa Sedlica ← Krzemieniec → granicą do Obrucne"
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Kamienna",
+"wysokosc":1201.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Hrubki",
+"wysokosc":1186.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Czerteż",
+"wysokosc":1072.00,
+"wezly_szlakow":"Szlak_start.svg Szlak_zielony.svg na słowacji – polana – nowa sedlica"
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Borsuk",
+"wysokosc":991.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Czoło",
+"wysokosc":1159.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Riaba Skała",
+"wysokosc":1199.00,
+"wezly_szlakow":"Szlak_skrzyz.svg Szlak_zolty.svg słowacja - Polana ← Riaba Skała → Jawornik →Wetlina – p. Orłowicza – Zatwarnica"
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Dziurkowiec",
+"wysokosc":1188.00,
+"wezly_szlakow":"Szlak_start.svg Szlak_zielony.svg na słowacji – Runina"
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Płasza",
+"wysokosc":1162.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Kurników Beskid",
+"wysokosc":1037.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Okrąglik",
+"wysokosc":1101.00,
+"wezly_szlakow":" Szlak_dolacz.svg Szlak_czerwony.svg szlak karpacki Nowa Sedlica <br> Szlak_skrzyz.svg Szlak_czerwony.svg GSB"
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Przełęcz nad Roztokami Górnymi",
+"wysokosc":801.00,
+"wezly_szlakow":"Szlak_start.svg Szlak_zolty.svg Roztoki Górne  - Majdan – Cisna <br> Szlak_start.svg Szlak_niebieski.svg słowacja – Runina"
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Rypi Wierch",
+"wysokosc":1003.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Sinkowa",
+"wysokosc":995.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Stryb",
+"wysokosc":1011.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Czerenin",
+"wysokosc":929.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Balnica",
+"wysokosc":0.00,
+"wezly_szlakow":"Szlak_skrzyz.svg Szlak_zolty.svg Osadne  ← Balnica → Maniów"
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Rydyszowa",
+"wysokosc":880.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Gmyszów Wierch",
+"wysokosc":870.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Wierch nad Łazem",
+"wysokosc":857.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Wysoki Groń",
+"wysokosc":905.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Głęboki Wierch",
+"wysokosc":890.00,
+"wezly_szlakow":" Szlak_dolacz.svg Szlak_czerwony.svg szlak karpacki Nowa Sedlica – Obrucne"
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Zubeńsko",
+"wysokosc":0.00,
+"wezly_szlakow":""
+},
+{
+"id_szlaku":"N-bz",
+"miejsce":"Nowy Łupków",
+"wysokosc":0.00,
+"wezly_szlakow":""
+}
+]

@@ -1,0 +1,1003 @@
+[ 
+{ 
+"id":1,
+"question":"Słynny schron Hitlera w Stępinie znajduje się na",
+"a":"Pogórzu Strzyżowskim",
+"b":"Pogórzu Ciężkowickim",
+"c":"Pogórzu Dynowskim ",
+"correct":"c"
+},
+{ 
+"id":2,
+"question":"Rezerwat przyrody nieożywionej „Skamieniałe miasto” położony jest nad rzeką",
+"a":"Białą",
+"b":"Ropą",
+"c":"Moszczanką",
+"correct":"a"
+},
+{ 
+"id":3,
+"question":"Schizma Tylawska polegała na",
+"a":"Przejściu wyznawców prawosławia na katolicyzm",
+"b":"Przejściu wyznawców grekokatolików na prawosławie",
+"c":"Przejściu wiernych kościoła bizantyjsko – ukraińskiego do kościoła zielonoświątkowego",
+"correct":"b"
+},
+{ 
+"id":4,
+"question":"Najwyższym szczytem Gór Sanocko – Turczańskich jest",
+"a":"Trohaniec",
+"b":"Jaworniki",
+"c":"Magura Łomniańska",
+"correct":"c"
+},
+{ 
+"id":5,
+"question":"Podaj prawidłową kolejność mijanych szczytów, które napotkasz wędrując z Komańczy w kierunku Ustrzyk Górnych głównym szlakiem beskidzkim",
+"a":"Wołosań, Okrąglik, Fereczata",
+"b":"Okrąglik, Fereczata, Wołosań",
+"c":"Wołosań, Fereczata, Okrąglik",
+"correct":"a"
+},
+{ 
+"id":6,
+"question":"Na jakiej trasie znajduje się zabytkowy kościół w Bliznem",
+"a":"Rzeszów – Sanok",
+"b":"Przemyśl – Ustrzyki Dolne",
+"c":"Krosno – Gorlice",
+"correct":"a"
+},
+{ 
+"id":7,
+"question":"W zabytkowej wilii „Romerówka”w Krynicy mieści się",
+"a":"Muzeum Turystyki i Narciarstwa",
+"b":"Muzeum Przyrodnicze Popradzkiego Parku Krajobrazowego",
+"c":"Muzeum Nikifora Krynickiego",
+"correct":"c"
+},
+{ 
+"id":8,
+"question":"Przez szczyt Moklik(675 m), który znajduje się nad nie istniejącą wsią Rosolin przechodzi szlak turystyczny koloru",
+"a":"zielonego",
+"b":"niebieskiego",
+"c":"odpowiedzi A/ i B/  nie są prawidłowe",
+"correct":"c"
+},
+{ 
+"id":9,
+"question":"Miejscowość ta, należała kiedyś do dóbr biskupstwa przemyskiego",
+"a":"Komańcza",
+"b":"Jaśliska",
+"c":"Osławica",
+"correct":"b"
+},
+{ 
+"id":10,
+"question":"W miejscowości tej, przed II wojną światową odbywały się słynne odpusty",
+"a":"Jasień k/Ustrzyk Dolnych",
+"b":"Łopienka",
+"c":"Wetlina",
+"correct":"b"
+},
+{ 
+"id":11,
+"question":"Pasmo Magurskie w Beskidzie Niskim dzieli się na",
+"a":"Magurę Małastowską i Magurę Wątkowską ",
+"b":"Magurę Gorlicką i Magurę Wątkowską",
+"c":"Magurę Gładyszowską i Magurę Małastowską",
+"correct":"a"
+},
+{ 
+"id":12,
+"question":"Główny czerwony szlak turystyczny we wschodniej części Beskidu Sądeckiego przebiega przez",
+"a":"Jaworzynę Krynicką(1114m)-Runek(1080m)-Halę Łabowską-Halę Pisaną(1043m) ",
+"b":"Jaworzynę Krynicką(1114m)-Runek(1080m)-Halę Pisaną(1043m)-Makowicę(947m)",
+"c":"Pustą Wielką(1060m)-Halę Pisaną(1043m)-Halę Łabowską-Jaworzynę Krynicką (1114m)",
+"correct":"a"
+},
+{ 
+"id":13,
+"question":"Jaki styl architektoniczny reprezentuje zamek w Krasiczynie",
+"a":"gotyk",
+"b":"renesans",
+"c":"barok",
+"correct":"b"
+},
+{ 
+"id":14,
+"question":"Jezioro Klimkowskie utworzono na rzece",
+"a":"Białej",
+"b":"Wisłoce",
+"c":"Ropie",
+"correct":"c"
+},
+{ 
+"id":15,
+"question":"Jaki ród prowadził kolonizację w dolinie Sanu",
+"a":"Kmitowie",
+"b":"Stadniccy",
+"c":"Balowie",
+"correct":"a"
+},
+{ 
+"id":16,
+"question":"Gdzie znajduje się rezerwat przyrody „Cisy w Nowej Wsi”",
+"a":"w Bieszczadach",
+"b":"w Beskidzie Sądeckim",
+"c":"w Beskidzie Dukielskim",
+"correct":"c"
+},
+{ 
+"id":17,
+"question":"Która wioska na przełomie XIX i XX wieku stała się niekwestionowaną stolicą łemkowskiego kamieniarstwa?",
+"a":"Olchowiec",
+"b":"Bartne",
+"c":"Zyndranowa",
+"correct":"b"
+},
+{ 
+"id":18,
+"question":"Karpaty Zachodnie od Karpat Wschodnich oddziela",
+"a":"Przełęcz Tylicka",
+"b":"Przełęcz Dukielska",
+"c":"Przełęcz  Łupkowska",
+"correct":"c"
+},
+{ 
+"id":19,
+"question":"W jakim muzeum znajduje się stała wystawa poświęcona historii aptekarstwa?",
+"a":"Muzeum Ziemi Bieckiej w Bieczu (Dom z Basztą)",
+"b":"Muzeum w Jarosławiu (Kamienica Orsettich)",
+"c":"Muzeum Okręgowe w Rzeszowie",
+"correct":"a"
+},
+{ 
+"id":20,
+"question":"Muzeum Przemysłu Naftowego znajduje się w",
+"a":"Ulaszowicach",
+"b":"Chorkówce",
+"c":"Bóbrce",
+"correct":"c"
+},
+{ 
+"id":21,
+"question":"Bieszczadzki Park Narodowy powstał w roku",
+"a":"1973",
+"b":"1989",
+"c":"1975",
+"correct":"a"
+},
+{ 
+"id":22,
+"question":"Ruiny obronnego klasztoru Karmelitów Bosych znajdują się w",
+"a":"Zagórzu",
+"b":"Zasławiu",
+"c":"Komańczy",
+"correct":"a"
+},
+{ 
+"id":23,
+"question":"Do ilu godzin powinna trwać racjonalna wędrówka górska",
+"a":"do 12",
+"b":"do 9",
+"c":"do 6",
+"correct":"c"
+},
+{ 
+"id":24,
+"question":"Najwyższa forma ochrony przyrody w Polsce to",
+"a":"park narodowy ",
+"b":"ścisły rezerwat przyrody ",
+"c":"pomnik przyrody",
+"correct":"a"
+},
+{ 
+"id":25,
+"question":"Flisz to rodzaj skał",
+"a":"magmowych",
+"b":"osadowych",
+"c":"metamorficznych",
+"correct":"b"
+},
+{ 
+"id":26,
+"question":"Władysław Krygowski był",
+"a":"autorem prac malarskich o tematyce górskiej",
+"b":"działaczem turystycznym, autorem przewodników i opowiadań o tematyce górskiej",
+"c":"dyrektorem Magurskiego Parku Narodowego",
+"correct":"b"
+},
+{ 
+"id":27,
+"question":"Granicę zachodnią wschodniej części Beskidu Sądeckiego stanowi rzeka",
+"a":"Biała",
+"b":"Dunajec",
+"c":"Poprad",
+"correct":"c"
+},
+{ 
+"id":28,
+"question":"Schronisko górskie Cyrla w Beskidzie Sądeckim znajduje się na szlaku turystycznym",
+"a":"czerwonym",
+"b":"niebieskim",
+"c":"zielonym",
+"correct":"a"
+},
+{ 
+"id":29,
+"question":"Najdłuższym znakowanym szlakiem turystycznym pieszym w Parku Krajobrazowym Pasma Brzanki jest szlak",
+"a":"żółty Siedliska-Kołaczyce",
+"b":"niebieski Tuchów – Rzepiennik",
+"c":"czarny Lubaszowa – Polana Morgi",
+"correct":"a"
+},
+{ 
+"id":30,
+"question":"Z uzdrowiska Wapienne na Magurę Wątkowską i do rezerwatu „Kornuty” można dojść szlakiem",
+"a":"niebieskim",
+"b":"zielonym",
+"c":"czarnym",
+"correct":"b"
+},
+{ 
+"id":31,
+"question":"Jak przejść z Brzegów Górnych (Berehów Górnych)  do Cisnej  poruszając się tylko grzbietami(wododziałami), nie przekraczając przy tym dolin",
+"a":"Brzegi Górne - Połonina Caryńska - Wielka Rawka - Przeł. Przysłup - Rypi Wierch - Cisna",
+"b":"Brzegi Górne - Połonina Caryńska - Połonina Wetlińska - Falowa - Łopiennik - Cisna",
+"c":"Brzegi Górne - Połonina Caryńska - Wielka Rawka - Dziurkowiec - Jasło - Cisna",
+"correct":"c"
+},
+{ 
+"id":32,
+"question":"Przy głównym, czerwonym szlaku beskidzkim położone są schroniska PTTK",
+"a":"w Jaworzycu, Bartnem, na Magurze Małastowskiej, na Hali Pisanej, w Komańczy",
+"b":"w Ustrzykach Górnych, Wetlinie, Łupkowie, Kalnicy, pod Honem, na Otrycie",
+"c":"w Komańczy, Bartnem, Ustrzykach Górnych, na Hali Łabowskiej, w Jaworzcu",
+"correct":"c"
+},
+{ 
+"id":33,
+"question":"Dwór wybitnego polityka i męża stanu, Ignacego Paderewskiego znajduje się w",
+"a":"Lusławicach",
+"b":"Kąśnej Dolnej",
+"c":"Siarach",
+"correct":"b"
+},
+{ 
+"id":34,
+"question":"Do jakiej części Karpat zalicza się Vihorlatskie Vrchy",
+"a":"Wewnętrzne Karpaty Wschodnie",
+"b":"Zewnętrzne Karpaty Wschodnie",
+"c":"Wewnętrzne Karpaty Zachodnie",
+"correct":"a"
+},
+{ 
+"id":35,
+"question":"Karpaty Wschodnie położone są pomiędzy",
+"a":"przełęczą Tylicką, a przełęczą Wyszkowską",
+"b":"doliną rzeki Poprad, a przełęczą Użocką",
+"c":"przełęczą Łupkowską, a przełęczą Predeal",
+"correct":"c"
+},
+{ 
+"id":36,
+"question":"Przez które z wymienionych szczytów, przełęczy i miejscowości prowadzi Główny Szlak  Beskidzki:",
+"a":"Sasów, Jaworzyna Krynicka, im. M Orłowicza, Huzary, Rytro, Skibce, Kąty",
+"b":"Majdan, Kozie Żebro, Jaworne, Huzary, Wetlina, Rymanów Zdrój",
+"c":"Skibce, Jaworzyna Konieczniańska, Kąty, Bukowska, Chryszczata, Łabowa",
+"correct":"a"
+},
+{ 
+"id":37,
+"question":"Nad rzeką Białą położone są miejscowości",
+"a":"Rożnowice, Grybów, Stróże",
+"b":"Zakliczyn, Gromnik, Tuchów",
+"c":"Gromnik, Ciężkowice, Bobowa",
+"correct":"c"
+},
+{ 
+"id":38,
+"question":"Międzynarodowy Festiwal „Święto Dzieci Gór” organizowany jest w",
+"a":"Iwoniczu Zdroju",
+"b":"Sanoku",
+"c":"Nowym Sączu",
+"correct":"c"
+},
+{ 
+"id":39,
+"question":"Skansen-Muzeum Pszczelarstwa znajduje się w",
+"a":"Szymbarku",
+"b":"Stróżach",
+"c":"Kamiannej",
+"correct":"b"
+},
+{ 
+"id":40,
+"question":"Słynący łaskami obraz Matki Boskiej Opieki pochodzący z Izb znajduje się w cerkwi",
+"a":"w Kwiatoniu ",
+"b":"w Bereście",
+"c":"w Wysowej",
+"correct":"b"
+},
+{ 
+"id":41,
+"question":"Zabytkowy kościół św. Idziego znajduje się w",
+"a":"Lesku",
+"b":"Bardejowie",
+"c":"Nowym Sączu",
+"correct":"b"
+},
+{ 
+"id":42,
+"question":"Przy głównym szlaku beskidzkim położone są schroniska PTTK",
+"a":"w Bartnem, na Jaworzynie Krynickiej, Jaworzcu, na Hali Łabowskiej, w Komańczy",
+"b":"w Cisnej, na Hali Łabowskiej, w Komańczy, w Bartnem, na Połoninie Wetlińskiej",
+"c":"na Magurze Małastowskiej, w Chyrowej, na Hali Łabowskiej, w Cisnej, na Połoninie Wetlińskiej",
+"correct":"b"
+},
+{ 
+"id":43,
+"question":"Węzeł pieszych szlaków turystycznych znakowanych kolorem żółtym, czerwonym, czarnym znajduje się",
+"a":"w Jamnej",
+"b":"w Ciężkowicach",
+"c":"na przełęczy im. M. Orłowicza",
+"correct":"c"
+},
+{ 
+"id":44,
+"question":"Do której części Karpat zaliczane są Góry Sanocko-Turczańskie",
+"a":"Zewnętrzne Karpaty Zachodnie",
+"b":"Wewnętrzne Karpaty Wschodnie",
+"c":"Zewnętrzne Karpaty Wschodnie",
+"correct":"c"
+},
+{ 
+"id":45,
+"question":"Podaj prawidłową kolejność mijanych szczytów, które napotkasz wędrując z Grybowa w kierunku Koniecznej szlakiem znakowanym kolorem niebieskim",
+"a":"Sucha Homola, Jaworzyna Konieczniańska, Dzielec, Obycz",
+"b":"Dzielec, Obycz, Sucha Homola, Jaworzyna Konieczniańska",
+"c":"Sucha Homola, Dzielec, Obycz, Jaworzyna Konieczniańska",
+"correct":"c"
+},
+{ 
+"id":46,
+"question":"Wybierz pod względem wysokości n.p.m., od najniższego do najwyższego, szczyty na Pogórzu Strzyżowskim",
+"a":"Chełm, Klonowa Góra, Bardo",
+"b":"Klonowa Góra,  Chełm, Bardo",
+"c":"Klonowa Góra, Bardo, Chełm",
+"correct":"b"
+},
+{ 
+"id":47,
+"question":"Pomnik króla Władysława Jagiełły obecnie zobaczymy na rynku w miejscowościach",
+"a":"Jaćmierz i Mrzygłód",
+"b":"Dynów i Mrzygłód",
+"c":"Dynów i Nowy Sącz",
+"correct":"b"
+},
+{ 
+"id":48,
+"question":"Po wystąpieniu objawów choroby górskiej należy",
+"a":"podać choremu środki przeciwbólowe",
+"b":"sprowadzić lub znieść chorego maksymalnie nisko",
+"c":"czekać aż objawy ustąpią i wtedy zejść z chorym maksymalnie nisko",
+"correct":"b"
+},
+{ 
+"id":49,
+"question":"Z rezerwatu „Skamieniałe Miasto” na szczyt Brzanki 534 m dotrzemy szlakiem pieszym znakowanym kolorem",
+"a":"czerwonym",
+"b":"niebieskim",
+"c":"zielonym",
+"correct":"b"
+},
+{ 
+"id":50,
+"question":"Postać Wincentego Pola kojarzona jest z",
+"a":"Łopiennikiem i Zagórzanami",
+"b":"Matragoną i Kalnicą k/Baligrodu",
+"c":"Leskiem i Sucha Górą",
+"correct":"a"
+},
+{ 
+"id":51,
+"question":"Najkrótsza trasa drogowa z Nowego Żmigrodu do Zborova prowadzi przez miejscowości",
+"a":"Grab i Nižná Polianka",
+"b":"Sękowa i Becherov",
+"c":"Tylawa i Svidnik",
+"correct":"a"
+},
+{ 
+"id":52,
+"question":"Pogórze Bukowskie sąsiaduje z",
+"a":"Pogórzem Przemyskim",
+"b":"Beskidem Niskim",
+"c":"Pogórzem Ciężkowickim",
+"correct":"b"
+},
+{ 
+"id":53,
+"question":"U nieprzytomnego poszkodowanego z zachowanymi czynnościami życiowymi (oddychanie i krążenie) należy zastosować",
+"a":"ułożenie z uniesionym tułowiem i nogami",
+"b":"ułożenie na wznak",
+"c":"ułożenie boczne",
+"correct":"c"
+},
+{ 
+"id":54,
+"question":"Idąc z Wysowej do szczytu Wapielnica 394 m wędrujesz kolejno szlakami znakowanymi kolorem",
+"a":"niebieskim, żółtym, czerwonym",
+"b":"żółtym, niebieskim, żółtym, czerwonym",
+"c":"zielonym, czerwonym, niebieskim, czerwonym",
+"correct":"c"
+},
+{ 
+"id":55,
+"question":"Najwcześniej zorganizowane przewodnictwo górskie w obecnych granicach Polski powstało",
+"a":"w Beskidach",
+"b":"w Sudetach",
+"c":"w Tatrach",
+"correct":"b"
+},
+{ 
+"id":56,
+"question":"Towarzystwo Akcyjne Kolei Miejscowej inwestowało w budowę linii kolejowej",
+"a":"Cisna – Balnica - Łupków",
+"b":"Nowy Zagórz - Krościenko - Chyrów",
+"c":"Jasło - Stróże – Nowy Sącz",
+"correct":"a"
+},
+{ 
+"id":57,
+"question":"Wybierz właściwą kolejność przełęczy od najniższej do najwyższej n. p. m. ",
+"a":"Przełęcz Beskid nad Ożenną, Przełęcz Wysowska, Przełęcz Tylicka",
+"b":"Przełęcz Wysowska, Przełęcz Tylicka, Przełęcz Beskid nad Ożenną",
+"c":"Przełęcz Tylicka, Przełęcz Beskid nad Ożenną,  Przełęcz Wysowska",
+"correct":"a"
+},
+{ 
+"id":58,
+"question":"W Starym Sączu znajduje się",
+"a":"klasztor ss. Klarysek ",
+"b":"klasztor ss. Nazaretanek",
+"c":"klasztory ss. Nazaretanek i ss. Klarysek",
+"correct":"a"
+},
+{ 
+"id":59,
+"question":"Najwyższy szczyt Laboreckej Vrchoviny to",
+"a":"Wierch nad Łazem",
+"b":"Wysoki Groń ",
+"c":"Głęboki Wierch",
+"correct":"b"
+},
+{ 
+"id":60,
+"question":"Skansen Wsi Pogórzańskiej im. prof. Romana Reinfussa znajduje się w miejscowości",
+"a":"Przeworsk",
+"b":"Trzcinica",
+"c":"Szymbark",
+"correct":"c"
+},
+{ 
+"id":61,
+"question":"Ustrzyki Dolne obejmowała  historyczna",
+"a":"Ziemia Przemyska",
+"b":"Ziemia Sanocka",
+"c":"Ziemia Lwowska",
+"correct":"a"
+},
+{ 
+"id":62,
+"question":"Ruiny zamków znajdują się w miejscowościach",
+"a":"Rytro, Zborov, Manasterzec",
+"b":"Zborov, Muszyna, Jaśliska",
+"c":"Odrzykoń, Dębowiec, Stropkov",
+"correct":"a"
+},
+{ 
+"id":63,
+"question":"Wybierz właściwą chronologicznie kolejność powstawania zapór wodnych w miejscowościach",
+"a":"Myczkowce, Solina, Sieniawa, Klimkówka",
+"b":"Klimkówka, Solina, Myczkowce, Sieniawa",
+"c":"Sieniawa, Myczkowce, Solina, Klimkówka",
+"correct":"a"
+},
+{ 
+"id":64,
+"question":"Na terenie którego Parku Krajobrazowego położony jest rezerwat ,,Góra Chełm’’ ?",
+"a":"Czarnorzecko - Strzyżowski Park Krajobrazowy",
+"b":"Park Krajobrazowy Pasma Brzanki",
+"c":"Park Krajobrazowy Pogórza Przemyskiego",
+"correct":"a"
+},
+{ 
+"id":65,
+"question":"W jakich miastach można zobaczyć Bramę Seklerską",
+"a":"w Starym Sączu i Tarnowie",
+"b":"w Nowym Sączu i Krynicy",
+"c":"w Muszynie i Piwnicznej",
+"correct":"a"
+},
+{ 
+"id":66,
+"question":"Przed którą z wymienionych cerkwi umieszczono tablicę ku czci księdza Michała Werbickiego - autora hymnu narodowego Ukrainy?",
+"a":"cerkiew w Uluczu",
+"b":"cerkiew w Posadzie Rybotyckiej",
+"c":"cerkiew w Węglówce",
+"correct":"a"
+},
+{ 
+"id":67,
+"question":"W sąsiedztwie jakiej bieszczadzkiej przełęczy położony jest Rypi Wierch  (1003 m) ?",
+"a":"Przełęcz nad Roztokami",
+"b":"Przełęcz Łupkowska",
+"c":"Przełęcz Beskid nad Radoszycami",
+"correct":"a"
+},
+{ 
+"id":68,
+"question":"Podaj prawidłową kolejność mijanych miejsc i szczytów, które napotkasz wędrując z Przełęczy Hałbowskiej do Wołowca Głównym Szlakiem Beskidzkim",
+"a":"Kolanin, Majdan, Ostrysz",
+"b":"Majdan, Magura, Kolanin",
+"c":"Kolanin, Świerzowa, Magura",
+"correct":"c"
+},
+{ 
+"id":69,
+"question":"Na jakiej trasie znajduje się zespół pałacowo-parkowy w Dubiecku ?",
+"a":"Grybów - Tuchów ",
+"b":"Dynów - Przemyśl",
+"c":"Rzeszów - Pilzno",
+"correct":"b"
+},
+{ 
+"id":70,
+"question":"Zaznacz prawidłowe zestawienie miejscowości i szczytów, przez które przechodzi Główny Szlak Beskidzki:",
+"a":"Rytro - Hala Łabowska (1061 m) - Makowica (948 m)",
+"b":"Rytro - Pusta Wielka (1060 m) - Runek (1082 m)",
+"c":"Rytro - Hala Łabowska (1061 m)  - Runek (1082 m)",
+"correct":"c"
+},
+{ 
+"id":71,
+"question":"W jakiej miejscowości znajduje się Muzeum Przyrodnicze im. Krystyny i Włodzimierza Tomków ?",
+"a":"Piwniczna Zdrój",
+"b":"Tuchów",
+"c":"Ciężkowice",
+"correct":"c"
+},
+{ 
+"id":72,
+"question":"Jaki styl architektury reprezentuje Kaplica Oświęcimów w Kościele o.o. Franciszkanów w Krośnie",
+"a":"gotyk",
+"b":"rokoko",
+"c":"barok",
+"correct":"c"
+},
+{ 
+"id":73,
+"question":"Jaka rodzina była związana z rozwojem uzdrowiska Iwonicz Zdrój ?",
+"a":"Balowie",
+"b":"Załuscy",
+"c":"Gładyszowie",
+"correct":"b"
+},
+{ 
+"id":74,
+"question":"Na terenie jakiego historycznego regionu położone jest miasto Humenne ?",
+"a":"Gemer",
+"b":"Zemplin",
+"c":"Szarisz",
+"correct":"b"
+},
+{ 
+"id":75,
+"question":"Zaznacz endemit Karpat Wschodnich występujący w Bieszczadach",
+"a":"żywiec gruczołowaty",
+"b":"urdzik karpacki",
+"c":"smotrawa okazała",
+"correct":"c"
+},
+{ 
+"id":76,
+"question":"W której części Karpat położony jest szczyt Jaworze (882 m) z wieżą widokową dla turystów ?",
+"a":"Zewnętrzne Karpaty Wschodnie",
+"b":"Zewnętrzne Karpaty Zachodnie",
+"c":"Wewnętrzne Karpaty Wschodnie",
+"correct":"b"
+},
+{ 
+"id":77,
+"question":"W której miejscowości znajduje się zabytkowa, murowano-drewniana synagoga",
+"a":"Stróże",
+"b":"Bobowa",
+"c":"Kąśna Dolna",
+"correct":"b"
+},
+{ 
+"id":78,
+"question":"Przez którą z wymienionych miejscowości przepływa rzeka Wiar ",
+"a":"Huwniki",
+"b":"Nozdrzec",
+"c":"Bachórzec",
+"correct":"a"
+},
+{ 
+"id":79,
+"question":"Nad jakim jeziorem w 1997 roku kręcono zdjęcia do filmu Jerzego Hoffmana 'Ogniem i Mieczem'?",
+"a":"Jezioro Solińskie",
+"b":"Jezioro Sieniawskie",
+"c":"Jezioro Klimkowskie",
+"correct":"c"
+},
+{ 
+"id":80,
+"question":"Która z miejscowości na Pogórzu Strzyżowsko-Dynowskim związana była z osadnictwem Zamieszańców ?",
+"a":"Markowa",
+"b":"Tyczyn",
+"c":"Węglówka",
+"correct":"c"
+},
+{ 
+"id":81,
+"question":"Gdzie najwcześniej powstało zorganizowane przewodnictwo górskie ?",
+"a":"w Beskidach ",
+"b":"w Tatrach",
+"c":"w Sudetach",
+"correct":"c"
+},
+{ 
+"id":82,
+"question":"W której cerkwi można zobaczyć słynący łaskami  obraz MB Pokrow, pochodzący z Izb ?",
+"a":"cerkiew w Bereście",
+"b":"cerkiew w Kwiatoniu",
+"c":"cerkiew w Krempnej",
+"correct":"a"
+},
+{ 
+"id":83,
+"question":"Która z wymienionych miejscowości położona jest w najbliższym sąsiedztwie szczytu Makowica (948 m) w Beskidzie Sądeckim ?",
+"a":"Barcice",
+"b":"Piwniczna Zdrój",
+"c":"Żegiestów Zdrój",
+"correct":"b"
+},
+{ 
+"id":84,
+"question":"Przez szczyt Siwarna (924 m) prowadzi znakowany szlak turystyczny",
+"a":"z Terki na Krysową (840 m)",
+"b":"z Polany na Magurę Stuposiańską (1016 m)",
+"c":"z Baligrodu na Durną (979 m)",
+"correct":"a"
+},
+{ 
+"id":85,
+"question":"Masyw Magury Stebnickiej (900 m) położony jest na terenie ",
+"a":"Pogórza Laboreckiego (słow. Laborecka vrchovina)",
+"b":"Pogórza Ondawskiego (słow. Ondavska vrchovina)",
+"c":"Gór Wyhorlat (słow. Vihorlat)",
+"correct":"b"
+},
+{ 
+"id":86,
+"question":"Jeden z najstarszych na Podkarpaciu rezerwatów przyrody ,,Kretówki’’ znajduje się przy trasie komunikacyjnej",
+"a":"z Domaradza do Miejsca Piastowego",
+"b":"z Rymanowa do Daliowej",
+"c":"z Dynowa do Dubiecka",
+"correct":"a"
+},
+{ 
+"id":87,
+"question":"Jaka miejscowość położona jest na odcinku szlaku turystycznego pomiędzy Kopystańką (541m ) a Suchym Obyczem (618 m) ?",
+"a":"Rybotycze",
+"b":"Piątkowa Ruska",
+"c":"Kalwaria Pacławska",
+"correct":"a"
+},
+{ 
+"id":88,
+"question":"Podaj prawidłową kolejność mijanych miejsc na trasie z Bukowca  do źródlisk Sanu poruszając się znakowaną kolorem niebieskim ścieżką przyrodniczo – historyczną ,,W Dolinie Górnego Sanu’’",
+"a":"Beniowa - ruiny folwarku Stroińskich - grób hr. Klary i Franciszka Stroińskich",
+"b":"ruiny folwarku Stroińskich – Beniowa – Negrylów ",
+"c":"Beniowa - grób hr.Klary i Franciszka Stroińskich – Negrylów",
+"correct":"a"
+},
+{ 
+"id":89,
+"question":"W której miejscowości znajduje się grób Ignacego Łukasiewicza ?",
+"a":"Chorkówka",
+"b":"Bóbrka",
+"c":"Zręcin",
+"correct":"c"
+},
+{ 
+"id":90,
+"question":"Ile stałych wysp znajduje się na Jeziorze Solińskim ? ",
+"a":"2",
+"b":"3",
+"c":"4",
+"correct":"b"
+},
+{ 
+"id":91,
+"question":"Z którym zamkiem związany jest magnacki ród Sapiehów ?",
+"a":"zamek w Krasiczynie",
+"b":"zamek w Łańcucie",
+"c":"zamek w Rzeszowie",
+"correct":"a"
+},
+{ 
+"id":92,
+"question":"W jakim paśmie górskim  znajduje się pomnik pamięci 74 polaków bestialsko pomordowanych przez ukraińskich nacjonalistów (dawna leśniczówka Brenzberg) ?",
+"a":"pasmo Jeleniowate",
+"b":"pasmo Durnej i Łopiennika",
+"c":"pasmo Chryszczatej",
+"correct":"a"
+},
+{ 
+"id":93,
+"question":"W jakiej miejscowości znajduje się Zagroda Maziarska - oddział Muzeum „Dwory Karwacjanów i Gładyszów” ?",
+"a":"Bartne",
+"b":"Szymbark",
+"c":"Łosie",
+"correct":"c"
+},
+{ 
+"id":94,
+"question":"Interesujące przykłady drewnianych cerkwi możemy zobaczyć m.in. w:",
+"a":"Smolniku nad Osławą, Świątkowej Wielkiej, Ożennej",
+"b":"Smolniku nad Sanem, Rzepedzi, Piątkowej Ruskiej",
+"c":"Sanoku, Równi, Birczy",
+"correct":"b"
+},
+{ 
+"id":95,
+"question":"Legendarny zbójnik Fedor Hołowaty (Hlavata) napisał swój słynny list, z groźbami do mieszczan:",
+"a":"Humennego",
+"b":"Nowego Sącza",
+"c":"Bardejowa",
+"correct":"c"
+},
+{ 
+"id":96,
+"question":"Synagoga i cmentarz żydowski z ohelami słynnych cadyków znajduje się w",
+"a":"Rymanowie",
+"b":"Lesku",
+"c":"Dukli",
+"correct":"a"
+},
+{ 
+"id":97,
+"question":"Z Ropek na Lackową 997 m n.p.m. dojdziemy szlakami",
+"a":"żółtym i zielonym",
+"b":"żółtym i niebieskim",
+"c":"czarnym i zielonym",
+"correct":"a"
+},
+{ 
+"id":98,
+"question":"Schron tzw: „Linii Mołotowa”  w którym urządzono ekspozycje i można go zwiedzać znajduje się w",
+"a":"Sanoku",
+"b":"Przemyślu",
+"c":"Dynowie",
+"correct":"a"
+},
+{ 
+"id":99,
+"question":"Niedawno otwarta zagroda, w której można oglądać żubry znajduje się w",
+"a":"Ustrzykach Górnych",
+"b":"Wetlinie",
+"c":"Mucznem",
+"correct":"c"
+},
+{ 
+"id":100,
+"question":"Zabudowę  galicyjskiego miasteczka możemy zobaczyć w skansenie w:",
+"a":"Sanoku",
+"b":"Nowym Sączu",
+"c":"w obu tych miastach",
+"correct":"b"
+},
+{ 
+"id":101,
+"question":"Co jest najcenniejszym zabytkiem Biecza",
+"a":"gotycka fara p.w. Bożego Ciała",
+"b":"renesansowy zamek królewski",
+"c":"renesansowa kamienica Orsettich",
+"correct":"a"
+},
+{ 
+"id":102,
+"question":"Muzeum Rzemiosła Łemkowskiego im. Stefana Czerhoniaka znajduje się w",
+"a":"Zyndranowej",
+"b":"Komańczy",
+"c":"Bielance",
+"correct":"c"
+},
+{ 
+"id":103,
+"question":"Muzeum Młynarstwa i Wsi znajduje się w",
+"a":"Sanoku",
+"b":"Dukli",
+"c":"Ustrzykach Dolnych",
+"correct":"c"
+},
+{ 
+"id":104,
+"question":"Miasto o największych w regionie tradycjach hutnictwa szkła, w którym utworzono w tym roku Centrum Dziedzictwa Szkła to:",
+"a":"Jasło",
+"b":"Krosno",
+"c":"Gorlice",
+"correct":"b"
+},
+{ 
+"id":105,
+"question":"Muzeum Fajek i Dzwonów znajduje się w",
+"a":"Przemyślu",
+"b":"Dynowie",
+"c":"Krośnie",
+"correct":"a"
+},
+{ 
+"id":106,
+"question":"Muzeum Przyrodniczo-Łowieckie „Knieja” znajduje się w",
+"a":"Nowosiółkach",
+"b":"Ustrzykach Dolnych",
+"c":"Jabłonkach",
+"correct":"a"
+},
+{ 
+"id":107,
+"question":"Na jakim potoku doszło po osunięciu się stoków góry w 1907 roku do utworzenia „Jeziorek Duszatyńskich”",
+"a":"Niedźwiedzi",
+"b":"Olchowaty",
+"c":"Prowcza",
+"correct":"b"
+},
+{ 
+"id":108,
+"question":"Dąb „Poganin” znajduje się w",
+"a":"Węglówce",
+"b":"Żarnowcu",
+"c":"Klimkówce",
+"correct":"a"
+},
+{ 
+"id":109,
+"question":"Zrekonstruowana studnia solankowa i kaskada solna znajdują się we wsi",
+"a":"Tyrawa Solna",
+"b":"Sołonka",
+"c":"Słonne",
+"correct":"a"
+},
+{ 
+"id":110,
+"question":"We wsi Osadne po stronie słowackiej, na południe od Balnicy, znajduje się",
+"a":"Drewniana cerkiew prawosławna",
+"b":"Kaplica szkieletów z I wojny światowej",
+"c":"Ruiny klasztoru bazylianów",
+"correct":"b"
+},
+{ 
+"id":111,
+"question":"Cmentarz żołnierzy słowackich poległych w 1941 roku, znajduje się na wzgórzu",
+"a":"Bukowina",
+"b":"Dziady",
+"c":"Franków",
+"correct":"a"
+},
+{ 
+"id":112,
+"question":"Z Beska, Doliną Wisłoka w Beskid Niski prowadzi szlak",
+"a":"Żółty",
+"b":"Zielony",
+"c":"Niebieski",
+"correct":"b"
+},
+{ 
+"id":113,
+"question":"Promy rzeczne na Sanie możemy zobaczyć m. in.",
+"a":"Nozdrzcu i Krzemiennej",
+"b":"Nozdrzcu i Mrzygłodzie",
+"c":"Dobrej i Uluczu",
+"correct":"a"
+},
+{ 
+"id":114,
+"question":"Z Arłamowa do Kalwarii Pacławskiej dojdziemy szlakiem",
+"a":"Czerwonym",
+"b":"Żółtym",
+"c":"Niebieskim",
+"correct":"c"
+},
+{ 
+"id":115,
+"question":"Pierwsze Ekomuzeum w Bieszczadach powstało w",
+"a":"Lutowiskach",
+"b":"Cisnej",
+"c":"Czarnej",
+"correct":"a"
+},
+{ 
+"id":116,
+"question":"Wodospad Szepit koło Zatwarnicy znajduje się na potoku",
+"a":"Caryński",
+"b":"Hylaty",
+"c":"Terebowiec",
+"correct":"b"
+},
+{
+"id":117,
+"question": "Lasumiła to nazwa",
+"a":"najgrubszej Polska jodły",
+"b":"najwyższa w Polsce sosna",
+"c":"najstarszego w Polsce drzewa",
+"correct": "a"
+},
+{
+"id":118,
+"question": "Dąb Chrześcijanin jeden z kilku najgrubszych dębów w kraju, znajduje się w",
+"a":" Januszkowicach",
+"b":"Węglówce",
+"c":"Bonarówka",
+"correct":"a"
+},
+{
+"id":119,
+"question": "Straż Graniczna w tym roku obchodziła rocznicę:",
+"a":"50 lecia",
+"b":"20 lecia",
+"c":"25 lecia",
+"correct":"c"
+},
+{
+"id":120,
+"question": "Festiwalu im. Jana Kiepury w Krynicy-Zdroju obchodził jubileusz:",
+"a":"50 lecia",
+"b":"20 lecia",
+"c":"70 lecia",
+"correct":"a"
+},
+{
+"id":121,
+"question": "26 Łemkowski Kermesz odbył się w:",
+"a":"Zdyni",
+"b":"Olchowcu",
+"c":"Wołowcu",
+"correct":"b"
+},
+{
+"id":122,
+"question": "Podkarpacka Akademia Wina ma swoją siedzibę w:",
+"a":"Dukli",
+"b":"Lesku",
+"c":"Jaśle",
+"correct":"c"
+},
+{
+"id":123,
+"question": "najwyższe wzniesienie Pogórza Dynowskiego to:",
+"a":"Królewska Góra",
+"b":"Sucha Góra",
+"c":"Grabówki",
+"correct":"b"
+},
+{
+"id":124,
+"question": "to jeden z głównych symboli ziemi krośnieńskiej, uwiecznionego na kartach najsłynniejszej polskiej komedii przez talent Aleksandra Fredry.",
+"a":"Zamek Kamieniec",
+"b":"Zamek Golesz",
+"c":"Zamek Dubiecko",
+"correct":"a"
+},
+{
+"id":125,
+"question": "Bieszczadzki Żaczek to",
+"a":"Pensjonat",
+"b":"Pociąg",
+"c":"Ultra maraton",
+"correct":"b"
+}
+ 
+]

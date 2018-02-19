@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html  lang="pl">
+<head>
+    <meta charset="utf-8" />
+    <!--css-->
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>
+    <link href="css/bootstrap-theme.css" rel="stylesheet" type="text/css"/>
+    <link href="css/jquery-ui.css" rel="stylesheet" type="text/css">
+    <link href="css/jquery-ui.theme.css" rel="stylesheet" type="text/css">
+
+    <link href="css/main.css" rel="stylesheet" type="text/css">
+
+    <!--js-->
+    <script src="js/jquery.js" type="text/javascript"></script>
+    <script src="js/jquery-ui.js" type="text/javascript"></script>
+    <script src="js/bootstrap.js" type="text/javascript"></script>
+    <script src="js/szlak-test.js" type="text/javascript"></script>
+
+</head>
+<body>
+
+<div class="container">
+
+    <div class="row">
+        <div class="col-sm-10">
+            <div class="alert alert-info h2">wybierz następny w kolejności</div>
+        </div>
+
+        <div class="col-sm-2">
+			<div class="dropdown">
+				<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					wybierz szlak <span class="caret"></span>
+				</button>
+
+				<ul class="dropdown-menu">
+					<!--<li><a href="#" class="menu" id="all"> wszystko </a></li>-->
+					<li><a href="#" class="menu" id="gsb-bs">Beskid Sądecki</a></li>
+					<li><a href="#" class="menu" id="gsb-bn">Beskid Niski</a></li>
+					<li><a href="#" class="menu" id="gsb-b">Bieszczady</a></li>
+					<li><a href="#" class="menu" id="N-pd">Niebieski -p. Dynowskie</a></li>
+					<li><a href="#" class="menu" id="N-pp">Niebieski -p. Przemyskie</a></li>
+					<li><a href="#" class="menu" id="N-gst">Niebieski - Sanocko Turczańskie</a></li>
+					<li><a href="#" class="menu" id="N-bz">Niebieski - Bieszczady</a></li>
+				</ul>
+			</div>
+		
+			<div class="dropdown">
+                <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Linki
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
+                    <li><a href="/egzamin/">Quiz pytania egzaminacyjne</a></li>
+                    <li><a href="/egzamin/szlak-test.html">test szlaków</a></li>
+                    <li><a href="/egzamin/szlak.html">nauka szlaków</a></li>
+                    <li><a href="/bieszczady/">graniówka bieszczad</a></li>
+                </ul>
+            </div>
+			
+        </div>
+		
+    </div>
+
+    <div class="panel panel-default">
+        <div class="panel-heading">szlak prowadzi przez... <span class="badge count-ok alert-success right"></span></div>
+        <div id="kontenerOk" class="panel-body"></div>
+    </div>
+
+    <div class="panel panel-default">
+        <div class="panel-heading">wybierz<span class="badge count-err alert-danger"></span></div>
+        <div id="kontener" class="panel-body"></div>
+    </div>
+</div>
+</body>
+</html>

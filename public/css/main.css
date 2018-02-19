@@ -1,0 +1,14 @@
+.answer, .next, .prev, .sprawdz{
+    cursor: pointer;
+}
+.question-correct{
+    background-color: indianred;
+}
+.icon{
+    max-width: 16px;
+    max-height: 16px;
+}
+
+.sprawdz{
+    margin: 4px;
+}

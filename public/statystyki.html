@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html  lang="pl">
+    <head>
+        <meta charset="utf-8" />
+        <!--css-->
+        <link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>
+        <link href="css/bootstrap-theme.css" rel="stylesheet" type="text/css"/>
+        <link href="css/jquery-ui.css" rel="stylesheet" type="text/css">
+        <link href="css/jquery-ui.theme.css" rel="stylesheet" type="text/css">
+
+        <link href="css/main.css" rel="stylesheet" type="text/css">
+
+        <!--js-->
+        <script src="js/jquery.js" type="text/javascript"></script>
+        <script src="js/jquery-ui.js" type="text/javascript"></script>
+        <script src="js/bootstrap.js" type="text/javascript"></script>
+        <script src="js/question.js" type="text/javascript"></script>
+        <script src="lockr-master/lockr.js" type="text/javascript"></script>
+        <style>
+            * {box-sizing: border-box}
+
+            .container {
+                width: 100%;
+                background-color: #ddd;
+            }
+
+            #bar {
+                text-align: right;
+                padding-right: 20px;
+                line-height: 40px;
+                color: white;
+            }
+
+            .html {width: 60%; background-color: #4CAF50;}
+        </style>
+
+
+
+    </head>
+    <body>
+        <div class="row">
+            <nav class="navbar navbar-inverse">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <a class="navbar-brand" href="Lorem Ipsum">Przewodnik</br> Górski</a>
+                    </div>
+                    <ul class="nav navbar-nav">
+                        <li><a href="index.html">Strona Główna</a></li>
+                        <li class="active"><a href="#">Statystyki</a></li>
+                        <li><a href="#">Ustawienia</a></li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Linki
+                                <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/egzamin/">Quiz pytania egzaminacyjne</a></li>
+                                <li><a href="/egzamin/szlak-test.html">test szlaków</a></li>
+                                <li><a href="/egzamin/szlak.html">nauka szlaków</a></li>
+                                <li><a href="/bieszczady/">graniówka bieszczad</a></li>
+                            </ul>
+                        </li>
+
+                        <li><a href="#">Profile</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div> 
+        <div class="row">
+            <div class ="col-sm-1"></div>
+            <div class ="col-sm-10">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Data</th>
+                            <th>Godzina</th>
+                            <th>Wynik</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="info">
+                            <td>             <div id="data">
+                                </div>
+                            <td>             <div id="godzina">
+                                </div>
+                            </td>
+                            </td>
+                            <td>            <div id="wynik">
+                                </div> </td>
+                        </tr>
+
+                    </tbody>
+
+
+
+
+
+
+
+                </table>
+            </div>
+            <div class ="col-sm-1"></div>
+        </div>
+        <div class ="col-sm-1"></div>
+        <div class ="col-sm-10">
+            
+            <button type="button" onclick="wyczysc()" class="btn btn-danger">Wyczyść Statystyki</button></div>
+       
+        <div class ="col-sm-1"></div>
+
+        <script>
+            var data = Lockr.getAll();
+            console.log(data);
+            $(data).each(function (i, row) {
+                console.log(row);
+                var wiersz = "<div class='wiersz'>"
+                wiersz += "<div class='data'>" + row[0].date + "</div>"
+                wiersz += "</div>";
+                $('#data').append(wiersz);
+            })
+
+            var godzina = Lockr.getAll();
+            console.log(godzina);
+            $(godzina).each(function (i, row) {
+                console.log(row);
+                var wierszb = "<div class='wierszb'>"
+                wierszb += "<div class='data'>" + row[1].czas + "</div>"
+                wierszb += "</div>";
+                $('#godzina').append(wierszb);
+            })
+
+
+            var wynik = Lockr.getAll();
+            console.log(wynik);
+            $(wynik).each(function (i, row) {
+                console.log(row);
+                var wierszc = "<div class='wierszc'>"
+
+                wierszc += "<div class='score'>" + row[2].score + "</div>"
+                wierszc += "</div>";
+                $('#wynik').append(wierszc);
+            })
+
+
+
+            //            var data = Lockr.getAll();
+            //            console.log(data);
+            //            $(data).each(function (i, row) {
+            //                console.log(row);
+            //                var wiersz = "<div class='wiersz'>"
+            //                wiersz += "<div class='data'>" + row[0].date + ' ' + row[1].czas + "</div>"
+            //                wiersz += "<div class='score'>" + row[2].score + "</div>"
+            //                wiersz += "</div>";
+            //                $('#statystyka').append(wiersz);
+            //            })
+
+
+            function wyczysc() {
+                localStorage.clear();
+                window.alert("Statystyki zostały wyczyszczone!")
+                location.reload();
+                return;
+            }
+        </script>
+
+    </body>
+</html>
