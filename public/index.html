@@ -22,10 +22,11 @@
         <style>
             * {box-sizing: border-box}
 
-            .container {
-                width: 100%;
-                background-color: #ddd;
-            }
+            /*            .container {
+                            width: 100%;
+                            
+                           
+                        }*/
 
             #bar {
                 text-align: right;
@@ -40,150 +41,148 @@
 
     </head>
     <body>
-        <div class="container">
-        <div class="row">
-            <div class ="col-sm-12">
-                <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-                    <!-- Brand -->
-                    <a class="navbar-brand" href="#">Przewodnik Górski</a>
+        <div class="container-fluid">
+            <div class="row">
+                <div class ="col-sm-12">
+                    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+                        <!-- Brand -->
+                        <a class="navbar-brand" href="#">Przewodnik Górski</a>
 
-                    <!-- Links -->
-                    <ul class="navbar-nav">
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Strona Domowa</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Statystyki</a>
-                        </li>
+                        <!-- Links -->
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Strona Domowa</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Statystyki</a>
+                            </li>
 
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Ustawienia</a>
-                        </li>
-
-
-
-                        <!-- Dropdown -->
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-                                Linki
-                            </a>
-                            <div class="dropdown-menu">
-                                <a class="dropdown-item" href="#">Quiz pytania egzaminacyjne</a>
-                                <a class="dropdown-item" href="#">Test szlaków</a>
-                                <a class="dropdown-item" href="#">Nauka szlaków</a>
-                                <a class="dropdown-item" href="#">Graniówka bieszczad</a>
-
-                            </div>
-                        </li>
-                    </ul>
-                </nav>
-            </div></div>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Ustawienia</a>
+                            </li>
 
 
-        <div class="row">
-            <div class ="col-sm-1"></div>
-            <!--        <div class="panel panel-danger col-sm-10">-->
 
-            <div class="row summary-alert">
+                            <!-- Dropdown -->
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                                    Linki
+                                </a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="#">Quiz pytania egzaminacyjne</a>
+                                    <a class="dropdown-item" href="#">Test szlaków</a>
+                                    <a class="dropdown-item" href="#">Nauka szlaków</a>
+                                    <a class="dropdown-item" href="#">Graniówka bieszczad</a>
+
+                                </div>
+                            </li>
+                        </ul>
+                    </nav>
+                </div></div>
+<div style="padding-top:1%"></div>
+
+            <div class="row">        
+                
+                    <div class ="col-sm-1"></div>
+                    <div class="col-sm-10 quest alert-danger panel"></div>
+                    <div class="col-md-1"></div>
+                </div>
+            <div style="padding-top:1%"></div>
+            <div class="row">
+            
+                    <div class ="col-sm-1"></div>
+                    <div class="col-sm-10 correct-answer alert-danger panel"></div>
+                    <div class ="col-sm-1"></div>
+               </div>
+       
+         
+<div style="padding-top:1%"></div>
+            <div class="row summary-correct">
                 <div class ="col-sm-1"></div>
-                <div class="col-sm-10 quest alert-danger panel"></div>
-                <div class="col-md-1"></div>
+                <div class="col-sm-10 alert-success panel"><p class="text-info">Dobrze :)</p></div>
+                <div class ="col-sm-1"></div>
             </div>
-            <div class="row summary-alert">
+<div style="padding-top:1%"></div>
+            <div class="row">
                 <div class ="col-sm-1"></div>
-                <div class="col-sm-10 correct-answer alert-danger panel"></div>
+                <div class="col-sm-10 alert alert-info question"></div>
                 <div class ="col-sm-1"></div>
             </div>
-        </div>
-        <!--    </div>-->
-
-        <div class="row summary-correct">
-            <div class ="col-sm-1"></div>
-            <div class="col-sm-10 alert-success panel"><p class="text-info">Dobrze :)</p></div>
-            <div class ="col-sm-1"></div>
-        </div>
-
-        <div class="row">
-            <div class ="col-sm-1"></div>
-            <div class="col-sm-10 alert alert-info question"></div>
-            <div class ="col-sm-1"></div>
-        </div>
 
 
 
-
-        <div class="row">
-            <div class ="col-sm-1"></div>
-            <div class="panel panel-success col-sm-10">
-                <div class="row">
-                    <div class="col-sm-1"></div>
-                    <div class="col-sm-3">ilość pytań <span class="badge total">0</span></div>
-                    <div class="col-sm-4">poprawne odpowiedzi <span class="badge correct">0</span></div>
-                    <div class="col-sm-3">Procent ukończenia testu<div id="pro" setTimeout>xxx</div>
+            <div class="row">
+                <div class ="col-sm-1"></div>
+                <div class="panel panel-success col-sm-10">
+                    <div class="row">
                         <div class="col-sm-1"></div>
+                        <div class="col-sm-3">ilość pytań <span class="badge total">0</span></div>
+                        <div class="col-sm-4">poprawne odpowiedzi <span class="badge correct">0</span></div>
+                        <div class="col-sm-3">Procent ukończenia testu<div id="pro" setTimeout>xxx</div>
+                            <div class="col-sm-1"></div>
+                        </div>
                     </div>
+                    </br>
+                    <div class="row">
+                        <div class ="col-sm-1"></div>
+                        <div class ="col-sm-10"><div id="progressbar"></div></div> 
+                        <div class ="col-sm-1"></div>
+                    </div></br>    
+                    <div class="row">
+                        <div class ="col-sm-1"></div>
+                        <div class ="col-sm-10"><div id="progressbar"></div></div> 
+                        <div class ="col-sm-1"></div>
+                    </div>    
+                    <div class ="col-sm-1"></div>
                 </div>
-                </br>
-                <div class="row">
-                    <div class ="col-sm-1"></div>
-                    <div class ="col-sm-10"><div id="progressbar"></div></div> 
-                    <div class ="col-sm-1"></div>
-                </div></br>    
-                <div class="row">
-                    <div class ="col-sm-1"></div>
-                    <div class ="col-sm-10"><div id="progressbar"></div></div> 
-                    <div class ="col-sm-1"></div>
-                </div>    
                 <div class ="col-sm-1"></div>
             </div>
-            <div class ="col-sm-1"></div>
-        </div>
 
 
-        <div class="row">
-            <div class ="col-sm-1"></div>   
-            <div class ="col-sm-10">
-                <div class="card bg-primary text-white">
-                    <div class=" answer answer-a card-body"></div>
+            <div class="row">
+                <div class ="col-sm-1"></div>   
+                <div class ="col-sm-10">
+                    <div class="card bg-primary text-white">
+                        <div class=" answer answer-a card-body"></div>
+                    </div>
+                    <div style="padding-top:1%"></div>
+                    <div class="card bg-primary text-white">
+                        <div class=" answer answer-b card-body"></div>
+                    </div>
+                    <div style="padding-top:1%"></div>
+                    <div class="card bg-primary text-white">
+                        <div class=" answer answer-c card-body"></div>
+
+                    </div>
                 </div>
-                <div style="padding-top:1%"></div>
-                <div class="card bg-primary text-white">
-                   <div class=" answer answer-b card-body"></div>
-                </div>
-                <div style="padding-top:1%"></div>
-                <div class="card bg-primary text-white">
-                     <div class=" answer answer-c card-body"></div>
-                    
+                <div class ="col-sm-1"></div>
+            </div>       
+
+
+
+
+
+
+            <div class="modal fade" tabindex="-1" id="summary" role="dialog">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            <h4 class="modal-title">Koniec testu</h4>
+                        </div>
+                        <div class="modal-body">
+                            <p>Test zakończony <span class="test-info"></span></p>
+                            <p>Poprawne odpowiedzi<span class="badge correct">0</span> na <span class="badge total">0</span></p>
+                            <!--                        <button  >Zapisz wynik</button>-->
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-warning koniec" data-dismiss="modal">Zamknij</button>
+                            <button type="button" onclick="zapisz()" class="btn btn-success koniec" data-dismiss="modal">Zamknij i zapisz wynik</button>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class ="col-sm-1"></div>
-        </div>       
-
-
-
-     
-
-
-        <div class="modal fade" tabindex="-1" id="summary" role="dialog">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                        <h4 class="modal-title">Koniec testu</h4>
-                    </div>
-                    <div class="modal-body">
-                        <p>Test zakończony <span class="test-info"></span></p>
-                        <p>Poprawne odpowiedzi<span class="badge correct">0</span> na <span class="badge total">0</span></p>
-                        <!--                        <button  >Zapisz wynik</button>-->
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-warning koniec" data-dismiss="modal">Zamknij</button>
-                        <button type="button" onclick="zapisz()" class="btn btn-success koniec" data-dismiss="modal">Zamknij i zapisz wynik</button>
-                    </div>
-                </div>
-            </div>
         </div>
-</div>
         <script>
 
             // Nazwy miesięcy
