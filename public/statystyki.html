@@ -53,17 +53,26 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="index.html">Strona Domowa</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="statystyki.html">Statystyki</a>
-                            </li>
 
                             <li class="nav-item">
                                 <a class="nav-link" href="#">Ustawienia</a>
                             </li>
 
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                                    Statystyki
+                                </a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="statystyki.html">Quiz</a>
+                                    <a class="dropdown-item" href="#">Test szlaków</a>
 
 
-                            <!-- Dropdown -->
+                                </div>
+                            </li>
+
+
+
+
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
                                     Linki
@@ -76,107 +85,110 @@
 
                                 </div>
                             </li>
+
+
+
                         </ul>
                     </nav>
                 </div></div>
-<div style="padding-top:1%"></div>
+            <div style="padding-top:1%"></div>
 
-        <div class="row">
-            <div class ="col-sm-1"></div>
-            <div class ="col-sm-10">
-                <table class="table">
-                    <thead>
-                        <tr>
-                            <th>Data</th>
-                            <th>Godzina</th>
-                            <th>Wynik</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr class="info">
-                            <td>             <div id="data">
-                                </div>
-                            <td>             <div id="godzina">
-                                </div>
-                            </td>
-                            </td>
-                            <td>            <div id="wynik">
-                                </div> </td>
-                        </tr>
+            <div class="row">
+                <div class ="col-sm-1"></div>
+                <div class ="col-sm-10">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>Data</th>
+                                <th>Godzina</th>
+                                <th>Wynik</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="info">
+                                <td>             <div id="data">
+                                    </div>
+                                <td>             <div id="godzina">
+                                    </div>
+                                </td>
+                                </td>
+                                <td>            <div id="wynik">
+                                    </div> </td>
+                            </tr>
 
-                    </tbody>
-
-
+                        </tbody>
 
 
 
 
 
-                </table>
+
+
+                    </table>
+                </div>
+                <div class ="col-sm-1"></div>
             </div>
             <div class ="col-sm-1"></div>
-        </div>
-        <div class ="col-sm-1"></div>
-        <div class ="col-sm-10">
-            
-            <button type="button" onclick="wyczysc()" class="btn btn-danger">Wyczyść Statystyki</button></div>
-       
-        <div class ="col-sm-1"></div>
+            <div class ="col-sm-10">
 
-        <script>
-            var data = Lockr.getAll();
-            console.log(data);
-            $(data).each(function (i, row) {
-                console.log(row);
-                var wiersz = "<div class='wiersz'>"
-                wiersz += "<div class='data'>" + row[0].date + "</div>"
-                wiersz += "</div>";
-                $('#data').append(wiersz);
-            })
+                <button type="button" onclick="wyczysc()" class="btn btn-danger">Wyczyść Statystyki</button></div>
 
-            var godzina = Lockr.getAll();
-            console.log(godzina);
-            $(godzina).each(function (i, row) {
-                console.log(row);
-                var wierszb = "<div class='wierszb'>"
-                wierszb += "<div class='data'>" + row[1].czas + "</div>"
-                wierszb += "</div>";
-                $('#godzina').append(wierszb);
-            })
+            <div class ="col-sm-1"></div>
+
+            <script>
+                var data = Lockr.getAll();
+                console.log(data);
+                $(data).each(function (i, row) {
+                    console.log(row);
+                    var wiersz = "<div class='wiersz'>"
+                    wiersz += "<div class='data'>" + row[0].date + "</div>"
+                    wiersz += "</div>";
+                    $('#data').append(wiersz);
+                })
+
+                var godzina = Lockr.getAll();
+                console.log(godzina);
+                $(godzina).each(function (i, row) {
+                    console.log(row);
+                    var wierszb = "<div class='wierszb'>"
+                    wierszb += "<div class='data'>" + row[1].czas + "</div>"
+                    wierszb += "</div>";
+                    $('#godzina').append(wierszb);
+                })
 
 
-            var wynik = Lockr.getAll();
-            console.log(wynik);
-            $(wynik).each(function (i, row) {
-                console.log(row);
-                var wierszc = "<div class='wierszc'>"
+                var wynik = Lockr.getAll();
+                console.log(wynik);
+                $(wynik).each(function (i, row) {
+                    console.log(row);
+                    var wierszc = "<div class='wierszc'>"
 
-                wierszc += "<div class='score'>" + row[2].score + "</div>"
-                wierszc += "</div>";
-                $('#wynik').append(wierszc);
-            })
+                    wierszc += "<div class='score'>" + row[2].score + "</div>"
+                    wierszc += "</div>";
+                    $('#wynik').append(wierszc);
+                })
 
 
 
-            //            var data = Lockr.getAll();
-            //            console.log(data);
-            //            $(data).each(function (i, row) {
-            //                console.log(row);
-            //                var wiersz = "<div class='wiersz'>"
-            //                wiersz += "<div class='data'>" + row[0].date + ' ' + row[1].czas + "</div>"
-            //                wiersz += "<div class='score'>" + row[2].score + "</div>"
-            //                wiersz += "</div>";
-            //                $('#statystyka').append(wiersz);
-            //            })
+                //            var data = Lockr.getAll();
+                //            console.log(data);
+                //            $(data).each(function (i, row) {
+                //                console.log(row);
+                //                var wiersz = "<div class='wiersz'>"
+                //                wiersz += "<div class='data'>" + row[0].date + ' ' + row[1].czas + "</div>"
+                //                wiersz += "<div class='score'>" + row[2].score + "</div>"
+                //                wiersz += "</div>";
+                //                $('#statystyka').append(wiersz);
+                //            })
 
 
-            function wyczysc() {
-                localStorage.clear();
-                window.alert("Statystyki zostały wyczyszczone!")
-                location.reload();
-                return;
-            }
-        </script>
+                function wyczysc() {
+                    localStorage.clear();
+                    window.alert("Statystyki zostały wyczyszczone!")
+                    location.reload();
+                    return;
+                }
+            </script>
 
     </body>
 </html>

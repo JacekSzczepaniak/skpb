@@ -1,75 +1,254 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html  lang="pl">
-<head>
-    <meta charset="utf-8" />
-    <!--css-->
-    <link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>
-    <link href="css/bootstrap-theme.css" rel="stylesheet" type="text/css"/>
-    <link href="css/jquery-ui.css" rel="stylesheet" type="text/css">
-    <link href="css/jquery-ui.theme.css" rel="stylesheet" type="text/css">
+    <head>
 
-    <link href="css/main.css" rel="stylesheet" type="text/css">
 
-    <!--js-->
-    <script src="js/jquery.js" type="text/javascript"></script>
-    <script src="js/jquery-ui.js" type="text/javascript"></script>
-    <script src="js/bootstrap.js" type="text/javascript"></script>
-    <script src="js/szlak-test.js" type="text/javascript"></script>
 
-</head>
-<body>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
 
-<div class="container">
 
-    <div class="row">
-        <div class="col-sm-10">
-            <div class="alert alert-info h2">wybierz następny w kolejności</div>
-        </div>
 
-        <div class="col-sm-2">
-			<div class="dropdown">
-				<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-					wybierz szlak <span class="caret"></span>
-				</button>
 
-				<ul class="dropdown-menu">
-					<!--<li><a href="#" class="menu" id="all"> wszystko </a></li>-->
-					<li><a href="#" class="menu" id="gsb-bs">Beskid Sądecki</a></li>
-					<li><a href="#" class="menu" id="gsb-bn">Beskid Niski</a></li>
-					<li><a href="#" class="menu" id="gsb-b">Bieszczady</a></li>
-					<li><a href="#" class="menu" id="N-pd">Niebieski -p. Dynowskie</a></li>
-					<li><a href="#" class="menu" id="N-pp">Niebieski -p. Przemyskie</a></li>
-					<li><a href="#" class="menu" id="N-gst">Niebieski - Sanocko Turczańskie</a></li>
-					<li><a href="#" class="menu" id="N-bz">Niebieski - Bieszczady</a></li>
-				</ul>
-			</div>
-		
-			<div class="dropdown">
-                <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Linki
-                    <span class="caret"></span>
-                </button>
-                <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
-                    <li><a href="/egzamin/">Quiz pytania egzaminacyjne</a></li>
-                    <li><a href="/egzamin/szlak-test.html">test szlaków</a></li>
-                    <li><a href="/egzamin/szlak.html">nauka szlaków</a></li>
-                    <li><a href="/bieszczady/">graniówka bieszczad</a></li>
-                </ul>
+
+        <meta charset="utf-8" />
+        <!--css-->
+        <link href="node_modules/bootstrap/dist/css/bootstrap.css" rel="stylesheet" type="text/css"/>
+        <link href="node_modules/bootstrap/dist/css/bootstrap-grid.css" rel="stylesheet" type="text/css"/>
+        <link href="node_modules/bootstrap/dist/css/bootstrap-reboot.css" rel="stylesheet" type="text/css"/>
+
+        <link href="node_modules/jquery-ui-dist/jquery-ui.css" rel="stylesheet" type="text/css">
+        <link href="node_modules/jquery-ui-dist/jquery-ui.theme.css" rel="stylesheet" type="text/css">
+
+        <link href="css/main.css" rel="stylesheet" type="text/css">
+
+        <!--js-->
+        <script src="node_modules/jquery/dist/jquery.js" type="text/javascript"></script>
+        <script src="node_modules/jquery-ui-dist/jquery-ui.js" type="text/javascript"></script>
+        <script src="node_modules/bootstrap/dist/js/bootstrap.js" type="text/javascript"></script>
+        <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.js" type="text/javascript"></script>
+        <script src="js/question.js" type="text/javascript"></script>
+        <script src="node_modules/lockr/lockr.js" type="text/javascript"></script>
+
+
+        <style>
+            * {box-sizing: border-box}
+
+            /*            .container {
+                            width: 100%;
+                            
+                           
+                        }*/
+
+            #bar {
+                text-align: right;
+                padding-right: 20px;
+                line-height: 40px;
+                color: white;
+            }
+
+        </style>
+
+
+
+    </head>
+    <body>
+        <div class="container-fluid">
+            <div class="row">
+                <div class ="col-sm-12">
+                    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+                        <!-- Brand -->
+                        <a class="navbar-brand" href="#">Przewodnik Górski</a>
+
+                        <!-- Links -->
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link" href="index.html">Strona Domowa</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Ustawienia</a>
+                            </li>
+
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                                    Statystyki
+                                </a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="statystyki.html">Quiz</a>
+                                    <a class="dropdown-item" href="#">Test szlaków</a>
+
+
+                                </div>
+                            </li>
+
+
+
+
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                                    Linki
+                                </a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="#">Quiz pytania egzaminacyjne</a>
+                                    <a class="dropdown-item" href="#">Test szlaków</a>
+                                    <a class="dropdown-item" href="#">Nauka szlaków</a>
+                                    <a class="dropdown-item" href="#">Graniówka bieszczad</a>
+
+                                </div>
+                            </li>
+
+
+
+
+                            <div class="dropdown">
+                                <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    wybierz szlak <span class="caret"></span>
+                                </button>
+
+                                <ul class="dropdown-menu">
+                                    <li><a href="#" class="menu" id="all"> wszystko </a></li>
+                                    <li><a href="#" class="menu" id="gsb-bs">Beskid Sądecki</a></li>
+                                    <li><a href="#" class="menu" id="gsb-bn">Beskid Niski</a></li>
+
+                                    <li><a href="#" class="menu" id="gsb-b">Bieszczady</a></li>
+                                    <li><a href="#" class="menu" id="N-pd">Niebieski -p. Dynowskie</a></li>
+                                    <li><a href="#" class="menu" id="N-pp">Niebieski -p. Przemyskie</a></li>
+
+                                    <li><a href="#" class="menu" id="N-gst">Niebieski - Sanocko Turczańskie</a></li>
+                                    <li><a href="#" class="menu" id="N-bz">Niebieski - Bieszczady</a></li>
+                                </ul>
+                            </div>
+
+                            <div class="dropdown">
+                                <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+                                    Dropdown button
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" id="all"> wszystko </a>
+                                    <a class="dropdown-item" id="gsb-bs">Beskid Sądecki</a>
+                                    <a class="dropdown-item" id="gsb-bn">Beskid Niski</a>
+
+                                    <a class="dropdown-item" id="gsb-b">Bieszczady</a>
+                                    <a class="dropdown-item" id="N-pd">Niebieski -p. Dynowskie</a>
+                                    <a class="dropdown-item" id="N-pp">Niebieski -p. Przemyskie</a>
+
+                                    <a class="dropdown-item" id="N-gst">Niebieski - Sanocko Turczańskie</a>
+                                    <a class="dropdown-item" id="N-bz">Niebieski - Bieszczady</a>
+                                </div>
+                            </div>
+
+
+
+
+
+
+                        </ul>
+                    </nav>
+
+
+
+
+
+
+
+
+
+
+
+
+                </div></div>
+
+            <div class="row">
+                <div class="col-sm-1"></div>
+                <div class="col-sm-10">
+                    <div class="alert alert-info h2">wybierz następny w kolejności</div>
+                </div>
+
+                <div class="col-sm-1">
+
+
+
+                </div></div>
+
+            <!--
+                        <div class="panel panel-default">
+                            <div class="panel-heading">szlak prowadzi przez... <span class=""></span></div>
+                            <div id="kontenerOk" class="panel-body"></div>
+                        </div>
+            
+                        
+                        <div class="panel panel-default">
+                            <div class="panel-heading">wybierz<span class=""></span></div>
+                            <div id="kontener" class="panel-body"></div>
+                            
+                            
+                        </div>-->
+
+            <!--            <div class="row">
+                            <div class ="col-sm-1"></div>   
+                            <div class ="col-sm-10">
+                                <div class="card bg-primary text-white">
+                                    <div class=" badge count-ok alert-success right"><div id="kontenerOk" class="panel-body"></div></div>
+                                    
+                                </div>
+                                <div style="padding-top:1%"></div>
+                                <div class="card bg-primary text-white">
+                                    <div class=" badge count-err alert-danger"><div id="kontener" class="panel-body"></div></div>
+                                </div>
+                                <div style="padding-top:1%"></div>
+            
+                                <div class ="col-sm-1"></div>
+                            </div>       
+            
+                        </div>-->
+
+            <div class="row">
+                <div class="col-sm-1"></div>
+                <div class="col-sm-10">szlak prowadzi przez... <span class="badge count-ok alert-success right">0</span></div>
+                <div class="col-sm-1"></div>
             </div>
-			
-        </div>
-		
-    </div>
 
-    <div class="panel panel-default">
-        <div class="panel-heading">szlak prowadzi przez... <span class="badge count-ok alert-success right"></span></div>
-        <div id="kontenerOk" class="panel-body"></div>
-    </div>
+            <div class="card">
+                <div id="kontenerOk" class="card-body"></div>
+            </div>
 
-    <div class="panel panel-default">
-        <div class="panel-heading">wybierz<span class="badge count-err alert-danger"></span></div>
-        <div id="kontener" class="panel-body"></div>
-    </div>
+            <div class="row">
+                <div class="col-sm-1"></div>
+                <div class="col-sm-10">wybierz<span class="badge count-err alert-danger">0</span></div>
+                <div class="col-sm-1"></div>
+            </div>
+
+
+
+            <div class="card">
+                <div id="kontener" class="card-body"></div>
+            </div>
+
+
+
+
+
+
+
+
+            <!--            <div class="card">
+                            <div class="panel-heading"></div>
+                            <div id="kontenerOk" class="panel-body"></div>
+                        </div>
+            
+                        <div class="card">
+                            <div class="panel-heading"></div>
+            
+                        </div>-->
+
+
+
+
+
+    </body>
+</html> 
+
+<div class="row">
+
+
 </div>
-</body>
-</html>
