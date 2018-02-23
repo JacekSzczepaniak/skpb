@@ -4,6 +4,7 @@ $(function () {
     var current;
     var incorrect;
     var proc = 2.5;
+    var pro = 0;
     exists = [];
     $.getJSON("js/pytania.json", function (json) {
         question = json;
@@ -35,7 +36,7 @@ $(function () {
                 });
             });
 
-            document.getElementById("pro").innerHTML = pro;
+//            document.getElementById("pro").innerHTML = pro;
             if ($.inArray(rand, exists) === -1) {
                 exists.push(rand);
                 break;

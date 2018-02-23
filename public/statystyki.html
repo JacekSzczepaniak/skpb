@@ -102,6 +102,9 @@
                                 <th>Data</th>
                                 <th>Godzina</th>
                                 <th>Wynik</th>
+                                <th>Negatywne</th>
+                                <th>Nazwa Testu</th>
+                                <th>Procent</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -111,8 +114,18 @@
                                 <td>             <div id="godzina">
                                     </div>
                                 </td>
-                                </td>
                                 <td>            <div id="wynik">
+                                    </div> </td>
+
+                                <td>            <div id="negatywne">
+                                    </div> </td>
+
+
+
+                                <td>            <div id="nazwa">
+                                    </div> </td>
+
+                                <td>            <div id="procent">
                                     </div> </td>
                             </tr>
 
@@ -163,10 +176,47 @@
                     console.log(row);
                     var wierszc = "<div class='wierszc'>"
 
-                    wierszc += "<div class='score'>" + row[2].score + "</div>"
+                    wierszc += "<div class='data'>" + row[2].score + "</div>"
                     wierszc += "</div>";
                     $('#wynik').append(wierszc);
                 })
+
+                var negatywne = Lockr.getAll();
+                console.log(negatywne);
+                $(negatywne).each(function (i, row) {
+                    console.log(row);
+                    var wierszf = "<div class='wierszf'>"
+                    wierszf += "<div class='data'>" + row[3].neg + "</div>"
+                    wierszf += "</div>";
+                    $('#negatywne').append(wierszf);
+
+
+                })
+
+                var nazwa = Lockr.getAll();
+                console.log(nazwa);
+                $(nazwa).each(function (i, row) {
+                    console.log(row);
+                    var wierszf = "<div class='wierszf'>"
+                    wierszf += "<div class='data'>" + row[4].name + "</div>"
+                    wierszf += "</div>";
+                    $('#nazwa').append(wierszf);
+
+
+                })
+
+                var procent = Lockr.getAll();
+                console.log(procent);
+                $(procent).each(function (i, row) {
+                    console.log(row);
+                    var wierszf = "<div class='wierszg'>"
+                    wierszf += "<div class='data'>" + row[5].procent + "</div>"
+                    wierszf += "</div>";
+                    $('#procent').append(wierszf);
+
+
+                })
+
 
 
 

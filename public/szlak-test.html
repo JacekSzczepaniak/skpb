@@ -21,14 +21,14 @@
 
         <link href="css/main.css" rel="stylesheet" type="text/css">
 
-        <!--js-->
+        <!--        js-->
         <script src="node_modules/jquery/dist/jquery.js" type="text/javascript"></script>
         <script src="node_modules/jquery-ui-dist/jquery-ui.js" type="text/javascript"></script>
         <script src="node_modules/bootstrap/dist/js/bootstrap.js" type="text/javascript"></script>
         <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.js" type="text/javascript"></script>
         <script src="js/question.js" type="text/javascript"></script>
         <script src="node_modules/lockr/lockr.js" type="text/javascript"></script>
-
+        <!--        <script src="js/szlak-test.js" type="text/javascript"></script>-->
 
         <style>
             * {box-sizing: border-box}
@@ -97,79 +97,44 @@
                                 </div>
                             </li>
 
-
-
-
-                            <div class="dropdown">
-                                <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    wybierz szlak <span class="caret"></span>
-                                </button>
-
-                                <ul class="dropdown-menu">
-                                    <li><a href="#" class="menu" id="all"> wszystko </a></li>
-                                    <li><a href="#" class="menu" id="gsb-bs">Beskid Sądecki</a></li>
-                                    <li><a href="#" class="menu" id="gsb-bn">Beskid Niski</a></li>
-
-                                    <li><a href="#" class="menu" id="gsb-b">Bieszczady</a></li>
-                                    <li><a href="#" class="menu" id="N-pd">Niebieski -p. Dynowskie</a></li>
-                                    <li><a href="#" class="menu" id="N-pp">Niebieski -p. Przemyskie</a></li>
-
-                                    <li><a href="#" class="menu" id="N-gst">Niebieski - Sanocko Turczańskie</a></li>
-                                    <li><a href="#" class="menu" id="N-bz">Niebieski - Bieszczady</a></li>
-                                </ul>
-                            </div>
-
-                            <div class="dropdown">
-                                <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
-                                    Dropdown button
-                                </button>
-                                <div class="dropdown-menu">
-                                    <a class="dropdown-item" id="all"> wszystko </a>
-                                    <a class="dropdown-item" id="gsb-bs">Beskid Sądecki</a>
-                                    <a class="dropdown-item" id="gsb-bn">Beskid Niski</a>
-
-                                    <a class="dropdown-item" id="gsb-b">Bieszczady</a>
-                                    <a class="dropdown-item" id="N-pd">Niebieski -p. Dynowskie</a>
-                                    <a class="dropdown-item" id="N-pp">Niebieski -p. Przemyskie</a>
-
-                                    <a class="dropdown-item" id="N-gst">Niebieski - Sanocko Turczańskie</a>
-                                    <a class="dropdown-item" id="N-bz">Niebieski - Bieszczady</a>
-                                </div>
-                            </div>
-
-
-
-
-
-
                         </ul>
                     </nav>
-
-
-
-
-
-
-
-
-
-
-
 
                 </div></div>
 
             <div class="row">
                 <div class="col-sm-1"></div>
                 <div class="col-sm-10">
-                    <div class="alert alert-info h2">wybierz następny w kolejności</div>
+                    <div class="alert alert-info h2">Wybierz następny w kolejności</div>
                 </div>
 
                 <div class="col-sm-1">
 
-
-
                 </div></div>
+            <div class="row">
+                <div class="col-sm-10"></div>
+                <div class="col-sm-2">
+                    <div class="dropdown">
+                        <button type="button" class="btn btn-warning dropdown-toggle" data-toggle="dropdown">
+                            Wybierz Szlak
+                        </button>
+                        <div class="dropdown-menu">
+                            <!--                                    <a class="dropdown-item" id="all"> wszystko </a>-->
+                            <a class="dropdown-item menu" id="gsb-bs">Beskid Sądecki</a>
+                            <a class="dropdown-item menu" id="gsb-bn">Beskid Niski</a>
 
+                            <a class="dropdown-item menu" id="gsb-b">Bieszczady</a>
+                            <a class="dropdown-item menu" id="N-pd">Niebieski -p. Dynowskie</a>
+                            <a class="dropdown-item menu" id="N-pp">Niebieski -p. Przemyskie</a>
+
+                            <a class="dropdown-item menu" id="N-gst">Niebieski - Sanocko Turczańskie</a>
+                            <a class="dropdown-item menu" id="N-bz">Niebieski - Bieszczady</a>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
             <!--
                         <div class="panel panel-default">
                             <div class="panel-heading">szlak prowadzi przez... <span class=""></span></div>
@@ -207,9 +172,12 @@
                 <div class="col-sm-10">szlak prowadzi przez... <span class="badge count-ok alert-success right">0</span></div>
                 <div class="col-sm-1"></div>
             </div>
-
-            <div class="card">
-                <div id="kontenerOk" class="card-body"></div>
+            <div class="row">
+                <div class="col-sm-1"></div>
+                <div class="card col-sm-10">
+                    <div id="kontenerOk" class="card-body"></div>
+                </div>
+                <div class="col-sm-1"></div>
             </div>
 
             <div class="row">
@@ -220,11 +188,39 @@
 
 
 
-            <div class="card">
-                <div id="kontener" class="card-body"></div>
+            <div class="row">
+                <div class="col-sm-1"></div>
+                <div class="card col-sm-10">
+                    <div id="kontener" class="card-body"></div>
+                </div>
+                <div class="col-sm-1"></div>
             </div>
 
+            <button type="button" onclick="zapisz()">
+                Zapisz
+            </button>
 
+
+            <!--            
+                        <div class="modal fade" tabindex="-1" id="summary" role="dialog">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                        <h4 class="modal-title">Koniec testu</h4>
+                                    </div>
+                                    <div class="modal-body">
+                                        <p>Test zakończony <span class="test-info"></span></p>
+                                        <p>Poprawne odpowiedzi<span class="badge count-ok alert-success right">0</span> Błędne Odpowiedzi <span class="badge count-err alert-danger">0</span></p>
+                                                                <button  >Zapisz wynik</button>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-warning koniec" data-dismiss="modal">Zamknij</button>
+                                        <button type="button" onclick="zapisz()" class="btn btn-success koniec" data-dismiss="modal">Zamknij i zapisz wynik</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>-->
 
 
 
@@ -246,9 +242,155 @@
 
 
     </body>
+    <script>
+        $(function () {
+            var question;
+            var source;
+            var correct = 1;
+            var error = 0;
+            $.getJSON("js/szlak-gsb.json", function (json) {
+                question = source = json;
+                //run();
+            });
+
+            run = function () {
+                $("#kontener").empty();
+                $("#kontenerOk").empty();
+                correct = 1;
+                error = 0;
+                $(".count-ok").html(correct);
+                $(".count-err").html(error);
+
+                ;
+                var btn = [];
+
+                $(question).each(function (a, b) {
+                    var miejsce = b.miejsce;
+                    var res = miejsce.match(/([a-z_]{0,100}.svg)/ig);
+                    $(res).each(function (a, b) {
+                        miejsce = miejsce.replace(b, '');
+                    });
+                    btn.push('<span class="badge sprawdz" data-id="' + a + '" id="btn' + a + '">' + miejsce + '</span>');
+                });
+
+                $("#kontenerOk").append(btn.shift());
+
+                // przemieszac tablice
+                shuffle(btn);
+
+                //dodac
+                $(btn).each(function () {
+                    $("#kontener").append(this);
+                });
+
+            }
+            var x = 0;
+            $('body').delegate('.sprawdz', 'click', function () {
+                dtId = $(this).data('id');
+                id = "btn" + dtId;
+                $('#kontener').remove(id);
+                if (dtId == start + 1) {
+                    $("#kontenerOk").append(this);
+                    ++start;
+                    ++correct;
+                    $(".count-ok").html(correct);
+                    window.corr = correct;
+
+                } else {
+                    ++error;
+                    $(".count-err").html(error);
+                    window.err = error;
+
+                }
+
+            });
+
+            var x = window.x;
+
+            $('body').delegate('.menu', 'click', function () {
+                var id = $(this).prop('id');
+                if (id == 'all') {
+                    return void(0);
+                }
+                question = [];
+                $(source).each(function () {
+                    if (this.id_szlaku == id) {
+                        question.push(this);
+                    }
+                });
+                start = 0;
+                run();
+                return void(0);
+            });
+
+            function shuffle(array) {
+                var currentIndex = array.length, temporaryValue, randomIndex;
+
+                // While there remain elements to shuffle...
+                while (0 !== currentIndex) {
+
+                    // Pick a remaining element...
+                    randomIndex = Math.floor(Math.random() * currentIndex);
+                    currentIndex -= 1;
+
+                    // And swap it with the current element.
+                    temporaryValue = array[currentIndex];
+                    array[currentIndex] = array[randomIndex];
+                    array[randomIndex] = temporaryValue;
+                }
+
+                return array;
+            }
+
+
+        });
+
+        // Nazwy miesięcy
+        var nazwy_mies = ['Styczeń', 'Luty', 'Marzec', 'Kwiecień', 'Maj',
+            'Czerwiec', 'Lipiec', 'Sierpień', 'Wrzesień', 'Październik',
+            'Listopad', 'Grudzień'];
+
+        // Odczytanie bieżącej daty i czasu, i rozbicie ich na składowe
+        var data = new Date();
+        var rok = data.getFullYear();
+        var mies = data.getMonth();
+        var dzien = data.getDate();
+        var godz = data.getHours();
+        var min = data.getMinutes();
+        var sec = data.getSeconds();
+
+        // Dodanie zera na początku minut i sekund jeżeli trzeba
+        if (min < 10)
+            min = '0' + min;
+        if (sec < 10)
+            sec = '0' + sec;
+
+        // Utworzenie odpowiednio sformatowanej daty i czasu
+        var data_i_czas = dzien + ' ' + nazwy_mies[mies] + ' ' + rok
+                + ', ' + godz + ':' + min + ':' + sec;
+
+        var czas = godz + ':' + min + ':' + sec;
+        var data = dzien + ' ' + nazwy_mies[mies] + ' ' + rok;
+
+
+        function zapisz() {
+
+            var xxx = window.corr + window.err;
+//            window.alert(xxx);
+            var pp = window.corr * 100 / xxx;
+//            window.alert(ppp + "%");
+
+            var ppp = (pp.toFixed(2))
+            var sss = ppp + " %";
+
+            var statystykas = Lockr.set('test szlak' + data_i_czas, [{date: data}, {czas: czas}, {score: window.corr}, {neg: window.err}, {name: "Szlak"}, {procent: sss}]);
+        }
+
+
+
+    </script>
+
+
+
 </html> 
 
-<div class="row">
-
-
-</div>

@@ -78,8 +78,8 @@
                                     Linki
                                 </a>
                                 <div class="dropdown-menu">
-                                    <a class="dropdown-item" href="#">Quiz pytania egzaminacyjne</a>
-                                    <a class="dropdown-item" href="#">Test szlaków</a>
+                                    <a class="dropdown-item" href="index.html">Quiz pytania egzaminacyjne</a>
+                                    <a class="dropdown-item" href="szlak-test.html">Test szlaków</a>
                                     <a class="dropdown-item" href="#">Nauka szlaków</a>
                                     <a class="dropdown-item" href="#">Graniówka bieszczad</a>
 
@@ -233,7 +233,7 @@
             function zapisz() {
 
 
-                var statystyka = Lockr.set('test' + data_i_czas, [{date: data}, {czas: czas}, {score: correctCount}]);
+                var statystyka = Lockr.set('test Quiz' + data_i_czas, [{date: data}, {czas: czas}, {score: correctCount}, {neg: "Niedotyczy"}, {name:"Quiz"}, {procent:"Niedotyczy"}]);
                 window.alert("Zapisano wynik!");
                 location.reload();
                 return;
