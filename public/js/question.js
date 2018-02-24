@@ -33,9 +33,10 @@ $(function () {
             $(function () {
                 $("#progressbar").progressbar({
                     value: pro
+
                 });
             });
-
+             document.getElementById("pro").innerHTML = pro;
 //            document.getElementById("pro").innerHTML = pro;
             if ($.inArray(rand, exists) === -1) {
                 exists.push(rand);
