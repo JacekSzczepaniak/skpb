@@ -36,8 +36,10 @@ $(function () {
 
                 });
             });
-             document.getElementById("pro").innerHTML = pro;
+             // document.getElementById("pro").innerHTML = pro;
 //            document.getElementById("pro").innerHTML = pro;
+            $('.pro').html(pro);
+
             if ($.inArray(rand, exists) === -1) {
                 exists.push(rand);
                 break;
